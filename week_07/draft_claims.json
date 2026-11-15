@@ -1,0 +1,37 @@
+[
+  {
+    "id": "D1",
+    "metric": "count",
+    "where": {
+      "status": "open"
+    },
+    "stated": 74
+  },
+  {
+    "id": "D2",
+    "metric": "share",
+    "where": {
+      "channel": "Phone"
+    },
+    "stated": 0.463,
+    "tol": 0.0005
+  },
+  {
+    "id": "D3",
+    "metric": "median",
+    "column": "minutes",
+    "where": {
+      "priority": "High"
+    },
+    "stated": 34.0,
+    "tol": 0.05
+  },
+  {
+    "id": "D4",
+    "metric": "mean",
+    "column": "satisfaction",
+    "where": {},
+    "stated": 4.16,
+    "tol": 0.005
+  }
+]

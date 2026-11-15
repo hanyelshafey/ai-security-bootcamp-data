@@ -1,0 +1,481 @@
+request_id,opened_at,desk,region,request_type,channel,priority,attachments,minutes,staff_on_shift,backlog_at_open,wait_hours,status,satisfaction
+RQ-00174,2025-01-01 03:17:00,North,Region A,Traffic,Phone,High,2,41.7,6,5,1.1,closed,
+RQ-00105,2025-01-01 07:14:00,East,Region A,Report,Phone,Low,1,27.3,4,9,1.97,open,4.0
+RQ-00238,2025-01-01 08:54:00,East,Region A,Report,Online,Low,3,76.6,3,16,5.47,closed,3.0
+RQ-00172,2025-01-01 09:50:00,North,Region A,Report,Online,Normal,0,29.5,7,15,4.22,closed,5.0
+RQ-00271,2025-01-01 13:33:00,East,Region A,Traffic,Phone,Normal,2,25.2,7,18,5.13,open,
+RQ-00231,2025-01-01 16:44:00,West,Region B,Noise,Phone,Normal,1,4.2,2,12,2.81,closed,
+RQ-00195,2025-01-01 17:31:00,North,Region A,Lost Item,Walk-in,High,1,23.9,6,11,1.11,open,5.0
+RQ-00088,2025-01-01 19:51:00,South,Region B,Document,Walk-in,Normal,0,14.3,4,14,3.04,closed,4.0
+RQ-00175,2025-01-01 20:31:00,South,Region B,Traffic,Online,Low,2,53.9,4,7,1.76,closed,3.0
+RQ-00281,2025-01-02 05:30:00,East,Region A,Traffic,Phone,Normal,0,25.0,2,0,0.74,closed,5.0
+RQ-00005,2025-01-02 09:40:00,North,Region A,Traffic,Walk-in,High,1,30.7,8,18,1.58,closed,
+RQ-00307,2025-01-02 11:18:00,North,Region A,Report,Phone,Normal,1,32.8,7,20,4.96,open,
+RQ-00439,2025-01-02 15:29:00,Central,Region A,Noise,Phone,Normal,1,19.1,5,15,3.66,closed,
+RQ-00297,2025-01-02 16:07:00,Central,Region A,Lost Item,Online,Normal,1,23.5,7,13,1.35,open,4.0
+RQ-00324,2025-01-02 17:04:00,Central,Region A,Report,Online,Normal,0,39.7,2,18,4.95,closed,3.0
+RQ-00241,2025-01-02 17:30:00,South,Region B,Lost Item,Online,Normal,2,29.0,4,9,1.56,closed,3.0
+RQ-00395,2025-01-03 13:12:00,West,Region B,Traffic,Walk-in,Low,1,9.8,4,16,2.66,closed,3.0
+RQ-00239,2025-01-03 16:38:00,West,Region B,Document,Phone,Normal,1,5.0,6,17,2.77,closed,4.0
+RQ-00315,2025-01-03 17:05:00,South,Region B,Lost Item,Online,Normal,2,37.6,8,16,3.43,open,5.0
+RQ-00360,2025-01-03 17:32:00,West,Region B,Noise,Online,Low,0,11.9,8,17,2.03,closed,4.0
+RQ-00317,2025-01-03 20:58:00,East,Region A,Report,Phone,Normal,5,384.0,7,8,1.59,closed,
+RQ-00186,2025-01-04 10:57:00,East,Region A,Traffic,Phone,Low,2,33.7,6,21,8.63,closed,
+RQ-00474,2025-01-04 11:38:00,North,Region A,Traffic,Phone,Low,1,29.0,3,15,4.42,closed,
+RQ-00177,2025-01-04 12:32:00,Central,Region A,Traffic,Phone,High,3,82.7,4,12,2.0,closed,4.0
+RQ-00126,2025-01-04 15:05:00,Harbor,Region B,Document,Online,Normal,2,15.4,6,15,3.85,closed,4.0
+RQ-00428,2025-01-05 14:16:00,North,Region A,Traffic,Walk-in,Low,0,11.4,5,19,4.31,closed,
+RQ-00089,2025-01-05 17:38:00,East,Region A,Report,Phone,Normal,0,47.7,8,11,0.87,closed,
+RQ-00078,2025-01-06 09:57:00,South,Region B,Report,Walk-in,Low,1,37.6,2,24,31.77,open,1.0
+RQ-00030,2025-01-06 14:52:00,West,Region B,Report,Phone,High,1,36.1,7,15,5.57,closed,4.0
+RQ-00043,2025-01-06 17:55:00,East,Region A,Report,Online,Normal,3,51.2,8,15,1.86,open,4.0
+RQ-00299,2025-01-06 18:53:00,South,Region B,Report,Phone,Low,3,53.6,6,6,1.65,closed,4.0
+RQ-00261,2025-01-07 11:30:00,Harbor,Region B,Traffic,Phone,Normal,1,27.0,2,13,4.58,closed,
+RQ-00350,2025-01-07 11:55:00,Harbor,Region B,Report,Phone,Low,5,94.4,6,11,3.02,open,
+RQ-00401,2025-01-07 15:50:00,East,Region A,Lost Item,Online,Low,2,15.6,5,17,4.15,open,3.0
+RQ-00091,2025-01-07 16:36:00,South,Region B,Report,Phone,Normal,3,67.4,3,7,1.57,open,
+RQ-00085,2025-01-08 06:20:00,Harbor,Region B,Document,Phone,Normal,0,9.3,5,10,2.7,closed,3.0
+RQ-00310,2025-01-08 07:21:00,North,Region A,Report,Walk-in,High,3,69.6,4,11,2.89,closed,
+RQ-00285,2025-01-08 11:17:00,West,Region B,Traffic,Phone,Low,1,47.1,5,14,2.25,closed,
+RQ-00352,2025-01-08 14:13:00,Central,Region A,Report,Phone,Low,2,50.9,2,16,6.42,closed,3.0
+RQ-00256,2025-01-08 14:27:00,North,Region A,Noise,Walk-in,Normal,1,18.2,6,14,2.76,closed,4.0
+RQ-00284,2025-01-08 17:41:00,South,Region B,Lost Item,Phone,Low,1,11.1,4,16,3.57,closed,
+RQ-00369,2025-01-08 17:41:00,West,Region B,Report,Online,Low,2,50.0,3,16,3.78,closed,3.0
+RQ-00432,2025-01-09 03:54:00,North,Region A,Traffic,Walk-in,Normal,1,58.4,3,1,1.7,open,3.0
+RQ-00400,2025-01-09 09:33:00,Central,Region A,Lost Item,Online,High,1,39.8,3,22,9.96,closed,2.0
+RQ-00278,2025-01-09 10:37:00,Central,Region A,Lost Item,Online,Normal,2,30.0,8,19,2.37,closed,3.0
+RQ-00270,2025-01-09 12:39:00,Harbor,Region B,Report,Online,Low,2,41.8,5,16,2.54,open,
+RQ-00453,2025-01-09 14:27:00,Harbor,Region B,Document,Walk-in,Low,0,2.4,5,18,4.07,closed,3.0
+RQ-00057,2025-01-09 15:20:00,North,Region A,Noise,Phone,Normal,3,36.7,5,17,4.12,open,5.0
+RQ-00028,2025-01-09 17:14:00,North,Region A,Traffic,Phone,Normal,0,12.7,3,15,4.93,closed,
+RQ-00473,2025-01-09 22:21:00,Harbor,Region B,Traffic,Online,Low,0,10.1,7,1,1.13,closed,
+RQ-00303,2025-01-10 06:44:00,Central,Region A,Noise,Online,Normal,0,12.4,2,8,2.85,closed,5.0
+RQ-00273,2025-01-10 09:02:00,North,Region A,Report,Phone,Normal,5,40.5,6,23,9.36,open,3.0
+RQ-00276,2025-01-10 14:57:00,Central,Region A,Traffic,Phone,Normal,0,10.9,4,20,7.62,closed,
+RQ-00233,2025-01-10 18:54:00,South,Region B,Noise,Online,Normal,5,20.6,6,9,1.42,closed,4.0
+RQ-00304,2025-01-10 22:31:00,North,Region A,Noise,Phone,Normal,2,28.3,4,5,1.92,open,4.0
+RQ-00348,2025-01-11 12:42:00,North,Region A,Document,Walk-in,Low,1,10.1,6,8,0.84,closed,
+RQ-00111,2025-01-12 06:01:00,South,Region B,Document,Phone,Normal,3,21.9,7,5,1.47,closed,
+RQ-00060,2025-01-12 08:36:00,North,Region A,Report,Phone,Low,0,22.5,5,19,5.59,closed,
+RQ-00253,2025-01-12 12:21:00,West,Region B,Report,Phone,Normal,4,48.4,8,11,1.38,closed,3.0
+RQ-00290,2025-01-12 12:37:00,Harbor,Region B,Lost Item,Phone,Normal,3,22.7,2,15,5.05,closed,
+RQ-00337,2025-01-12 16:36:00,Harbor,Region B,Report,Online,High,9,83.2,7,14,2.64,open,4.0
+RQ-00355,2025-01-12 17:12:00,Harbor,Region B,Report,Online,Normal,4,99.2,3,15,4.71,closed,3.0
+RQ-00164,2025-01-12 17:51:00,Central,Region A,Report,Online,Normal,2,21.2,8,17,2.52,closed,5.0
+RQ-00140,2025-01-12 19:44:00,East,Region A,Document,Phone,Normal,1,7.9,8,10,0.88,closed,3.0
+RQ-00442,2025-01-13 10:30:00,West,Region B,Document,Online,Normal,1,9.9,6,21,5.7,closed,4.0
+RQ-00359,2025-01-13 12:12:00,North,Region A,Traffic,Phone,Low,0,5.6,3,16,2.25,closed,
+RQ-00161,2025-01-13 12:57:00,South,Region B,Traffic,Phone,Normal,2,13.1,2,11,2.34,open,
+RQ-00016,2025-01-13 17:28:00,Central,Region A,Report,Online,Low,3,77.2,7,13,4.32,closed,
+RQ-00371,2025-01-14 07:06:00,Harbor,Region B,Report,Phone,Normal,3,54.5,7,5,0.47,open,4.0
+RQ-00456,2025-01-14 09:15:00,Central,Region A,Noise,Phone,Normal,0,6.3,7,19,2.82,open,
+RQ-00475,2025-01-14 13:07:00,Harbor,Region B,Document,Online,Normal,0,3.3,4,16,3.9,closed,
+RQ-00399,2025-01-14 22:18:00,North,Region A,Report,Phone,Normal,5,17.2,6,4,0.83,open,
+RQ-00279,2025-01-14 23:59:00,Central,Region A,Traffic,Phone,Normal,1,12.0,5,1,0.96,closed,5.0
+RQ-00396,2025-01-15 01:31:00,East,Region A,Lost Item,Online,Normal,0,6.5,6,7,1.19,closed,5.0
+RQ-00394,2025-01-15 09:37:00,South,Region B,Traffic,Walk-in,Normal,1,62.1,3,21,3.93,closed,
+RQ-00338,2025-01-15 11:48:00,West,Region B,Report,Walk-in,High,6,110.9,2,20,4.41,open,4.0
+RQ-00216,2025-01-15 11:50:00,East,Region A,Report,Phone,Low,2,41.1,7,15,2.18,open,5.0
+RQ-00110,2025-01-15 14:40:00,North,Region A,Noise,Walk-in,Low,1,3.6,4,19,3.96,closed,4.0
+RQ-00176,2025-01-16 09:34:00,Harbor,Region B,Document,Online,Low,1,6.6,3,15,4.29,open,5.0
+RQ-00343,2025-01-16 09:36:00,Central,Region A,Traffic,Online,Normal,1,34.3,4,16,3.5,open,
+RQ-00407,2025-01-16 10:27:00,North,Region A,Noise,Phone,Normal,0,12.6,6,18,5.17,closed,
+RQ-00464,2025-01-16 11:12:00,North,Region A,Noise,Phone,Low,0,21.6,4,18,3.81,closed,3.0
+RQ-00443,2025-01-16 11:14:00,East,Region A,Traffic,Online,Normal,1,23.2,6,18,3.32,open,3.0
+RQ-00375,2025-01-16 12:28:00,East,Region A,Report,Phone,Normal,1,16.4,8,13,1.64,closed,
+RQ-00070,2025-01-16 15:54:00,Harbor,Region B,Report,Walk-in,Low,1,36.6,4,15,3.02,closed,4.0
+RQ-00292,2025-01-16 19:00:00,North,Region A,Report,Online,Normal,3,42.7,2,12,4.13,open,5.0
+RQ-00197,2025-01-16 22:29:00,North,Region A,Report,Phone,Normal,4,59.2,3,6,2.34,closed,5.0
+RQ-00132,2025-01-17 05:53:00,Central,Region A,Report,Phone,Normal,3,42.0,4,5,0.78,closed,5.0
+RQ-00269,2025-01-17 12:06:00,Central,Region A,Noise,Phone,Normal,1,22.0,3,12,2.97,closed,
+RQ-00202,2025-01-17 14:02:00,Central,Region A,Document,Phone,Normal,0,5.5,5,16,6.91,closed,
+RQ-00222,2025-01-17 14:55:00,Harbor,Region B,Traffic,Walk-in,Normal,3,20.7,3,23,8.53,closed,
+RQ-00318,2025-01-17 15:02:00,East,Region A,Document,Phone,Normal,0,22.5,6,13,2.42,closed,
+RQ-00073,2025-01-17 17:25:00,West,Region B,Lost Item,Online,Low,1,31.4,7,11,1.62,closed,4.0
+RQ-00120,2025-01-17 22:50:00,West,Region B,Report,Phone,Normal,2,84.3,7,5,0.57,open,
+RQ-00365,2025-01-18 09:36:00,Harbor,Region B,Lost Item,Online,Low,0,22.1,8,21,3.69,closed,5.0
+RQ-00040,2025-01-18 12:06:00,West,Region B,Report,Phone,Low,2,35.9,6,11,1.85,closed,
+RQ-00438,2025-01-18 16:12:00,East,Region A,Lost Item,Online,Normal,1,19.4,4,9,1.28,closed,5.0
+RQ-00170,2025-01-19 10:20:00,East,Region A,Traffic,Walk-in,High,0,26.6,4,22,4.44,closed,4.0
+RQ-00069,2025-01-19 14:31:00,North,Region A,Document,Walk-in,Low,5,17.8,8,25,5.81,open,
+RQ-00047,2025-01-19 17:14:00,Central,Region A,Lost Item,Phone,Low,0,13.1,7,7,1.19,closed,
+RQ-00092,2025-01-19 21:37:00,East,Region A,Report,Phone,Normal,1,23.2,6,9,2.55,closed,
+RQ-00200,2025-01-20 09:00:00,West,Region B,Noise,Phone,Normal,1,18.0,4,20,8.02,closed,
+RQ-00214,2025-01-20 09:07:00,East,Region A,Lost Item,Walk-in,High,0,15.3,5,16,2.11,closed,
+RQ-00062,2025-01-20 11:52:00,North,Region A,Lost Item,Phone,Normal,2,26.5,8,13,3.83,open,
+RQ-00190,2025-01-20 12:45:00,South,Region B,Lost Item,Phone,High,1,23.1,4,17,4.11,closed,3.0
+RQ-00409,2025-01-21 10:15:00,Central,Region A,Report,Online,Normal,3,147.4,2,20,9.12,closed,3.0
+RQ-00257,2025-01-21 11:18:00,North,Region A,Document,Phone,Normal,1,17.4,6,16,2.94,closed,5.0
+RQ-00450,2025-01-21 17:08:00,Harbor,Region B,Lost Item,Walk-in,Normal,4,65.9,3,16,4.16,closed,
+RQ-00264,2025-01-22 10:12:00,South,Region B,Lost Item,Phone,Normal,1,42.2,6,22,3.76,closed,
+RQ-00468,2025-01-22 11:04:00,East,Region A,Report,Online,Normal,3,43.2,7,16,1.86,open,4.0
+RQ-00018,2025-01-22 11:22:00,Harbor,Region B,Report,Online,Normal,4,96.8,6,19,4.55,closed,3.0
+RQ-00447,2025-01-22 15:39:00,South,Region B,Document,Phone,Low,0,7.2,2,11,3.55,open,3.0
+RQ-00146,2025-01-22 19:12:00,North,Region A,Report,Online,High,1,113.3,8,12,1.84,closed,5.0
+RQ-00437,2025-01-22 21:25:00,North,Region A,Lost Item,Walk-in,Normal,3,55.6,5,4,1.47,closed,4.0
+RQ-00260,2025-01-23 00:34:00,Central,Region A,Report,Online,Normal,0,15.8,5,0,1.17,closed,5.0
+RQ-00167,2025-01-23 01:45:00,West,Region B,Report,Phone,Normal,2,36.7,7,4,1.23,closed,
+RQ-00458,2025-01-23 05:27:00,West,Region B,Traffic,Online,Low,0,27.4,3,8,1.9,closed,3.0
+RQ-00108,2025-01-23 06:07:00,Central,Region A,Lost Item,Online,Low,1,14.5,5,4,2.46,open,5.0
+RQ-00385,2025-01-23 08:50:00,Central,Region A,Lost Item,Online,Normal,1,6.6,8,22,3.51,open,5.0
+RQ-00054,2025-01-23 12:07:00,East,Region A,Report,Online,Low,3,27.0,6,17,3.31,closed,
+RQ-00342,2025-01-24 09:18:00,South,Region B,Lost Item,Phone,Low,0,32.1,3,18,6.93,closed,
+RQ-00319,2025-01-24 11:24:00,East,Region A,Document,Phone,Low,0,14.3,2,11,4.38,closed,
+RQ-00327,2025-01-24 14:30:00,Central,Region A,Traffic,Phone,Normal,2,78.5,3,18,8.04,closed,
+RQ-00391,2025-01-24 17:41:00,Harbor,Region B,Lost Item,Phone,Low,2,11.9,7,14,1.87,closed,
+RQ-00209,2025-01-24 18:24:00,West,Region B,Report,Phone,Normal,1,51.0,3,3,1.86,closed,
+RQ-00206,2025-01-24 20:02:00,North,Region A,Report,Phone,Low,1,33.4,7,5,1.38,closed,3.0
+RQ-00145,2025-01-24 23:21:00,Central,Region A,Report,Walk-in,Normal,2,125.4,8,2,0.42,open,
+RQ-00083,2025-01-25 09:09:00,Central,Region A,Traffic,Phone,Low,1,11.2,6,20,5.47,closed,
+RQ-00381,2025-01-25 13:42:00,Central,Region A,Lost Item,Phone,Normal,1,25.5,3,17,3.65,open,3.0
+RQ-00221,2025-01-25 14:08:00,Central,Region A,Lost Item,Online,Normal,2,7.8,4,15,2.79,open,4.0
+RQ-00183,2025-01-25 14:12:00,Harbor,Region B,Noise,Phone,Normal,2,39.0,6,18,2.73,closed,3.0
+RQ-00242,2025-01-25 17:02:00,Central,Region A,Report,Phone,High,6,89.5,6,13,4.59,closed,
+RQ-00049,2025-01-25 20:24:00,North,Region A,Noise,Phone,Low,0,5.3,7,4,1.11,open,
+RQ-00340,2025-01-25 21:17:00,South,Region B,Traffic,Online,Low,1,29.5,8,4,1.36,closed,3.0
+RQ-00029,2025-01-26 02:48:00,East,Region A,Noise,Online,Low,2,25.5,6,0,0.84,closed,
+RQ-00059,2025-01-26 07:22:00,Central,Region A,Report,Online,Normal,6,17.8,5,12,2.43,closed,3.0
+RQ-00203,2025-01-26 10:21:00,Central,Region A,Report,Walk-in,Normal,3,26.8,2,22,8.85,closed,3.0
+RQ-00010,2025-01-26 11:48:00,North,Region A,Document,Walk-in,Normal,1,31.0,5,25,9.66,closed,3.0
+RQ-00410,2025-01-26 13:17:00,Central,Region A,Lost Item,Online,Normal,1,13.2,3,17,4.67,closed,5.0
+RQ-00293,2025-01-26 16:05:00,West,Region B,Traffic,Online,Normal,2,27.5,7,15,1.96,open,5.0
+RQ-00194,2025-01-26 16:25:00,North,Region A,Traffic,Online,High,0,18.6,8,13,1.51,closed,4.0
+RQ-00480,2025-01-26 16:50:00,West,Region B,Lost Item,Online,High,1,45.7,2,16,4.04,closed,5.0
+RQ-00374,2025-01-26 20:36:00,North,Region A,Report,Online,Normal,5,67.9,8,10,1.19,closed,
+RQ-00021,2025-01-26 21:05:00,Central,Region A,Lost Item,Online,High,0,19.4,2,10,3.68,closed,
+RQ-00376,2025-01-27 01:17:00,Central,Region A,Report,Online,Normal,2,22.1,7,1,0.77,closed,5.0
+RQ-00286,2025-01-27 06:23:00,Central,Region A,Noise,Phone,High,1,14.3,5,5,0.87,closed,
+RQ-00411,2025-01-27 09:39:00,South,Region B,Lost Item,Walk-in,Low,1,10.4,7,18,3.29,closed,4.0
+RQ-00011,2025-01-27 09:58:00,Harbor,Region B,Report,Online,Normal,5,46.2,5,23,7.85,closed,
+RQ-00296,2025-01-27 11:01:00,South,Region B,Report,Phone,Normal,3,41.3,6,20,3.04,closed,
+RQ-00245,2025-01-27 13:18:00,West,Region B,Document,Phone,Low,1,11.7,7,26,7.87,closed,2.0
+RQ-00434,2025-01-27 22:40:00,Central,Region A,Report,Phone,Low,3,28.9,7,3,0.94,open,5.0
+RQ-00440,2025-01-27 23:28:00,Harbor,Region B,Traffic,Walk-in,Normal,1,18.2,5,4,1.78,closed,
+RQ-00066,2025-01-28 15:16:00,Harbor,Region B,Traffic,Online,Normal,2,36.4,6,12,1.73,closed,5.0
+RQ-00211,2025-01-28 19:45:00,South,Region B,Document,Walk-in,Low,0,6.6,4,13,3.58,closed,
+RQ-00237,2025-01-29 02:13:00,West,Region B,Noise,Phone,Low,1,20.4,5,1,0.65,closed,5.0
+RQ-00151,2025-01-29 07:43:00,Central,Region A,Document,Phone,Low,1,15.1,8,12,1.53,closed,5.0
+RQ-00084,2025-01-29 10:04:00,East,Region A,Traffic,Phone,Normal,0,30.2,3,19,6.28,open,
+RQ-00392,2025-01-29 11:04:00,Harbor,Region B,Report,Phone,High,4,150.7,7,17,2.33,open,
+RQ-00459,2025-01-29 14:04:00,South,Region B,Report,Phone,Normal,4,35.1,3,24,7.81,open,4.0
+RQ-00390,2025-01-29 17:25:00,Central,Region A,Report,Online,Normal,3,75.2,3,17,3.69,closed,3.0
+RQ-00022,2025-01-29 18:44:00,East,Region A,Lost Item,Phone,Normal,1,23.1,5,5,1.08,closed,4.0
+RQ-00424,2025-01-30 08:45:00,South,Region B,Document,Phone,Low,1,14.8,2,19,8.63,closed,
+RQ-00367,2025-01-30 13:01:00,East,Region A,Traffic,Phone,Normal,2,37.8,5,17,7.07,open,
+RQ-00336,2025-01-30 13:48:00,North,Region A,Noise,Online,Normal,1,29.2,5,15,2.96,closed,
+RQ-00244,2025-01-30 14:03:00,West,Region B,Traffic,Online,Normal,2,22.5,7,17,3.94,closed,4.0
+RQ-00014,2025-01-30 14:25:00,North,Region A,Report,Walk-in,High,2,87.2,8,19,2.32,closed,
+RQ-00122,2025-01-30 18:30:00,Harbor,Region B,Report,Walk-in,Normal,4,47.8,4,8,2.58,closed,
+RQ-00455,2025-01-31 10:00:00,Harbor,Region B,Document,Phone,Normal,1,9.6,2,22,8.72,closed,
+RQ-00431,2025-01-31 16:28:00,East,Region A,Noise,Online,Low,2,28.2,2,19,11.78,closed,
+RQ-00466,2025-01-31 21:19:00,North,Region A,Traffic,Online,Normal,1,33.7,3,10,2.81,closed,4.0
+RQ-00135,2025-02-01 02:46:00,South,Region B,Document,Phone,Normal,0,9.6,2,7,1.61,closed,
+RQ-00251,2025-02-01 06:05:00,West,Region B,Document,Phone,High,2,7.3,8,5,1.24,open,
+RQ-00045,2025-02-01 09:01:00,North,Region A,Lost Item,Online,Normal,0,23.6,6,17,3.71,open,4.0
+RQ-00305,2025-02-01 10:31:00,North,Region A,Report,Phone,Normal,5,131.1,2,19,4.2,closed,
+RQ-00173,2025-02-01 12:45:00,South,Region B,Traffic,Phone,Low,2,6.6,6,21,4.31,closed,4.0
+RQ-00212,2025-02-01 13:45:00,East,Region A,Document,Phone,Normal,2,18.4,8,20,4.5,open,
+RQ-00071,2025-02-01 17:10:00,West,Region B,Report,Phone,Low,2,59.4,4,13,4.86,open,5.0
+RQ-00080,2025-02-01 18:57:00,East,Region A,Report,Phone,Normal,2,31.8,3,11,3.05,closed,
+RQ-00413,2025-02-03 10:54:00,East,Region A,Report,Walk-in,Low,3,92.0,6,16,4.79,open,
+RQ-00321,2025-02-03 11:40:00,East,Region A,Document,Walk-in,Normal,0,6.0,7,15,3.37,closed,
+RQ-00274,2025-02-03 13:53:00,South,Region B,Traffic,Phone,High,3,51.4,3,14,4.62,open,
+RQ-00013,2025-02-03 19:35:00,North,Region A,Traffic,Online,Normal,1,14.1,4,8,1.64,open,3.0
+RQ-00118,2025-02-03 20:54:00,East,Region A,Traffic,Phone,Normal,2,42.8,5,13,2.51,closed,5.0
+RQ-00144,2025-02-03 21:19:00,Central,Region A,Lost Item,Phone,High,1,14.5,3,4,2.23,closed,4.0
+RQ-00280,2025-02-04 07:02:00,South,Region B,Lost Item,Phone,Normal,1,22.2,5,13,4.11,closed,4.0
+RQ-00429,2025-02-04 09:30:00,South,Region B,Traffic,Online,Low,0,11.5,5,23,8.84,closed,3.0
+RQ-00230,2025-02-04 12:33:00,East,Region A,Report,Online,Normal,2,12.7,8,10,1.17,closed,
+RQ-00477,2025-02-04 19:14:00,North,Region A,Traffic,Phone,Low,1,32.6,6,10,2.68,closed,4.0
+RQ-00048,2025-02-04 19:50:00,Central,Region A,Traffic,Phone,Normal,2,410.9,7,9,1.37,open,
+RQ-00154,2025-02-05 02:32:00,West,Region B,Traffic,Phone,Normal,2,18.4,6,1,0.79,open,4.0
+RQ-00006,2025-02-05 08:34:00,Harbor,Region B,Report,Walk-in,Normal,6,35.7,3,18,5.48,closed,5.0
+RQ-00422,2025-02-05 08:49:00,Harbor,Region B,Noise,Online,Normal,1,9.0,5,17,9.42,closed,
+RQ-00379,2025-02-05 16:53:00,Harbor,Region B,Lost Item,Online,Normal,1,18.7,5,18,3.22,closed,1.0
+RQ-00219,2025-02-05 19:43:00,Central,Region A,Lost Item,Walk-in,High,1,21.2,6,5,2.01,closed,4.0
+RQ-00382,2025-02-06 00:45:00,East,Region A,Report,Phone,Normal,5,53.9,3,0,0.88,closed,
+RQ-00444,2025-02-06 05:32:00,West,Region B,Noise,Online,Normal,1,12.8,4,11,3.67,closed,5.0
+RQ-00344,2025-02-06 09:32:00,North,Region A,Document,Online,Normal,0,17.3,6,21,6.36,closed,3.0
+RQ-00301,2025-02-06 10:25:00,Harbor,Region B,Report,Online,Low,3,31.4,8,23,3.88,closed,4.0
+RQ-00398,2025-02-06 13:07:00,North,Region A,Noise,Walk-in,Low,1,12.4,7,18,4.39,closed,3.0
+RQ-00025,2025-02-06 14:39:00,West,Region B,Document,Walk-in,Normal,0,22.3,4,16,2.29,closed,5.0
+RQ-00249,2025-02-07 00:32:00,South,Region B,Traffic,Online,Normal,1,29.1,5,0,0.74,closed,4.0
+RQ-00289,2025-02-07 10:20:00,Central,Region A,Lost Item,Online,Normal,1,24.7,8,19,4.93,closed,3.0
+RQ-00213,2025-02-07 14:06:00,Central,Region A,Lost Item,Phone,Low,1,10.3,3,9,2.81,open,5.0
+RQ-00026,2025-02-07 15:01:00,West,Region B,Report,Phone,Normal,3,41.7,5,13,2.86,closed,
+RQ-00169,2025-02-07 16:28:00,East,Region A,Report,Online,Low,3,57.2,4,19,3.82,closed,4.0
+RQ-00044,2025-02-08 01:38:00,Central,Region A,Document,Walk-in,Normal,1,12.4,7,4,1.44,closed,
+RQ-00356,2025-02-08 01:54:00,East,Region A,Lost Item,Phone,Low,0,12.0,7,0,0.8,closed,5.0
+RQ-00377,2025-02-08 05:33:00,Harbor,Region B,Traffic,Walk-in,Low,1,26.7,4,5,1.57,closed,4.0
+RQ-00354,2025-02-08 11:26:00,Harbor,Region B,Report,Phone,Normal,3,84.6,6,13,2.48,closed,
+RQ-00223,2025-02-08 11:55:00,North,Region A,Noise,Phone,Normal,3,21.6,6,20,3.77,closed,
+RQ-00100,2025-02-08 14:22:00,East,Region A,Traffic,Phone,Low,0,15.2,3,14,6.99,closed,
+RQ-00306,2025-02-08 16:06:00,North,Region A,Noise,Online,Low,1,41.0,3,21,9.49,closed,3.0
+RQ-00313,2025-02-08 17:27:00,Harbor,Region B,Report,Phone,Low,1,49.7,7,11,3.94,closed,
+RQ-00041,2025-02-08 20:53:00,North,Region A,Lost Item,Walk-in,Normal,2,17.7,2,13,4.22,closed,4.0
+RQ-00479,2025-02-09 07:26:00,East,Region A,Report,Phone,Normal,3,61.4,4,10,1.75,closed,4.0
+RQ-00328,2025-02-09 15:41:00,West,Region B,Report,Online,Normal,3,73.6,5,16,5.2,closed,
+RQ-00149,2025-02-09 19:51:00,North,Region A,Noise,Walk-in,High,0,14.4,5,7,0.97,open,
+RQ-00134,2025-02-10 11:11:00,North,Region A,Traffic,Online,Normal,2,35.3,4,16,3.51,open,4.0
+RQ-00423,2025-02-10 14:10:00,West,Region B,Document,Online,Normal,2,5.2,8,19,4.11,closed,4.0
+RQ-00446,2025-02-10 16:46:00,West,Region B,Traffic,Online,Normal,1,26.7,6,17,2.47,closed,3.0
+RQ-00325,2025-02-11 06:18:00,East,Region A,Document,Phone,Low,0,6.1,5,8,1.27,open,5.0
+RQ-00003,2025-02-11 06:40:00,Central,Region A,Document,Phone,High,1,18.1,5,7,0.95,closed,
+RQ-00298,2025-02-11 07:52:00,North,Region A,Document,Online,Low,1,14.0,5,11,2.36,closed,4.0
+RQ-00113,2025-02-11 14:16:00,Central,Region A,Report,Online,Normal,2,53.0,4,25,7.06,closed,3.0
+RQ-00320,2025-02-12 07:09:00,Central,Region A,Lost Item,Phone,High,1,21.3,5,9,2.21,open,4.0
+RQ-00467,2025-02-12 09:57:00,South,Region B,Lost Item,Phone,High,1,31.8,8,22,4.66,closed,
+RQ-00181,2025-02-12 10:13:00,North,Region A,Noise,Phone,High,0,13.0,5,17,2.04,closed,
+RQ-00001,2025-02-12 15:04:00,South,Region B,Lost Item,Phone,Normal,1,14.0,8,15,2.63,closed,
+RQ-00322,2025-02-12 17:24:00,North,Region A,Document,Phone,High,0,41.3,7,16,2.54,closed,4.0
+RQ-00419,2025-02-13 07:44:00,East,Region A,Document,Phone,Normal,1,21.5,7,15,1.94,closed,4.0
+RQ-00020,2025-02-13 10:09:00,Central,Region A,Lost Item,Online,High,0,19.3,7,17,3.74,closed,5.0
+RQ-00265,2025-02-13 10:24:00,Harbor,Region B,Traffic,Online,High,1,69.1,8,17,2.41,open,5.0
+RQ-00288,2025-02-13 11:09:00,South,Region B,Traffic,Phone,Normal,2,27.5,2,14,5.64,open,
+RQ-00254,2025-02-13 15:21:00,Harbor,Region B,Document,Phone,Low,2,10.4,7,16,2.52,closed,
+RQ-00095,2025-02-14 03:04:00,East,Region A,Noise,Phone,Low,0,11.5,8,0,0.49,closed,
+RQ-00345,2025-02-14 06:05:00,East,Region A,Report,Online,Normal,2,36.0,6,6,1.07,closed,
+RQ-00171,2025-02-14 08:13:00,West,Region B,Lost Item,Walk-in,Low,0,7.0,2,13,3.46,closed,5.0
+RQ-00312,2025-02-14 08:35:00,North,Region A,Lost Item,Phone,Normal,2,29.4,2,16,4.08,open,5.0
+RQ-00094,2025-02-14 08:37:00,West,Region B,Report,Phone,Low,5,36.3,2,22,7.48,closed,2.0
+RQ-00469,2025-02-14 08:50:00,North,Region A,Traffic,Online,Normal,1,43.5,7,22,4.49,closed,3.0
+RQ-00166,2025-02-14 13:20:00,North,Region A,Lost Item,Phone,Normal,2,13.9,7,17,3.14,closed,
+RQ-00414,2025-02-15 10:39:00,East,Region A,Traffic,Online,Normal,0,36.1,8,20,2.5,closed,
+RQ-00136,2025-02-15 13:25:00,Harbor,Region B,Traffic,Walk-in,Normal,1,35.1,3,14,4.31,closed,
+RQ-00086,2025-02-15 14:25:00,North,Region A,Report,Online,Low,2,12.4,7,14,0.97,open,
+RQ-00426,2025-02-15 14:44:00,North,Region A,Lost Item,Phone,Low,2,18.0,3,18,5.39,closed,
+RQ-00032,2025-02-15 15:56:00,West,Region B,Document,Walk-in,Low,2,15.1,2,17,5.43,open,
+RQ-00387,2025-02-15 23:55:00,West,Region B,Noise,Online,Normal,0,16.6,3,1,1.8,closed,4.0
+RQ-00087,2025-02-17 04:18:00,Central,Region A,Traffic,Phone,Low,0,455.0,7,0,0.58,open,5.0
+RQ-00129,2025-02-17 11:02:00,West,Region B,Noise,Walk-in,Normal,1,30.1,7,18,4.47,closed,3.0
+RQ-00162,2025-02-17 12:37:00,Harbor,Region B,Report,Walk-in,Low,3,23.7,4,5,0.72,closed,5.0
+RQ-00262,2025-02-17 15:08:00,South,Region B,Lost Item,Online,Normal,2,11.7,5,13,2.87,closed,3.0
+RQ-00143,2025-02-17 19:23:00,West,Region B,Report,Phone,High,4,186.3,3,8,3.07,closed,3.0
+RQ-00155,2025-02-18 14:52:00,North,Region A,Traffic,Phone,Normal,0,21.4,4,23,4.04,closed,
+RQ-00295,2025-02-18 15:03:00,West,Region B,Document,Walk-in,High,1,21.8,3,16,2.69,closed,
+RQ-00314,2025-02-18 15:14:00,South,Region B,Lost Item,Walk-in,Normal,1,23.5,8,16,2.02,closed,
+RQ-00009,2025-02-18 16:36:00,South,Region B,Report,Phone,Normal,2,34.8,5,11,1.76,closed,5.0
+RQ-00093,2025-02-19 06:17:00,North,Region A,Document,Online,Low,1,7.4,2,0,1.65,open,
+RQ-00159,2025-02-19 11:07:00,North,Region A,Traffic,Phone,Normal,1,30.1,3,19,9.21,closed,
+RQ-00103,2025-02-19 11:10:00,East,Region A,Document,Online,Normal,1,12.4,7,23,3.8,closed,3.0
+RQ-00198,2025-02-19 11:41:00,Central,Region A,Document,Phone,Low,4,19.6,3,17,5.47,closed,3.0
+RQ-00370,2025-02-19 16:05:00,Central,Region A,Noise,Phone,Normal,1,7.2,5,20,2.43,closed,
+RQ-00363,2025-02-20 05:07:00,North,Region A,Document,Online,High,0,11.0,6,6,1.25,closed,4.0
+RQ-00462,2025-02-20 09:11:00,West,Region B,Traffic,Walk-in,Low,2,41.9,5,20,1.66,closed,
+RQ-00218,2025-02-20 11:14:00,Central,Region A,Lost Item,Online,Normal,0,21.0,8,20,4.04,closed,4.0
+RQ-00472,2025-02-20 11:17:00,Central,Region A,Traffic,Phone,Low,1,29.6,4,18,2.17,closed,
+RQ-00158,2025-02-20 11:28:00,South,Region B,Noise,Walk-in,Normal,2,15.3,5,17,2.82,closed,4.0
+RQ-00397,2025-02-21 09:16:00,Central,Region A,Noise,Phone,Normal,0,9.5,7,20,6.32,closed,5.0
+RQ-00235,2025-02-21 09:29:00,East,Region A,Traffic,Online,Low,1,29.0,5,22,3.27,closed,
+RQ-00357,2025-02-21 10:45:00,Central,Region A,Document,Phone,Normal,1,5.1,7,20,2.26,closed,2.0
+RQ-00039,2025-02-21 10:48:00,North,Region A,Report,Online,Low,1,41.4,7,16,6.33,open,3.0
+RQ-00449,2025-02-21 13:43:00,West,Region B,Document,Walk-in,Low,2,16.6,2,15,2.53,closed,5.0
+RQ-00378,2025-02-21 16:18:00,East,Region A,Document,Phone,Normal,1,14.6,7,11,1.87,closed,
+RQ-00099,2025-02-22 09:40:00,Central,Region A,Lost Item,Online,Normal,3,16.2,8,17,2.66,closed,5.0
+RQ-00402,2025-02-22 10:46:00,North,Region A,Lost Item,Online,Normal,2,24.1,5,17,5.49,closed,4.0
+RQ-00408,2025-02-22 15:37:00,East,Region A,Traffic,Phone,Low,2,18.4,3,12,1.88,closed,4.0
+RQ-00107,2025-02-22 16:52:00,East,Region A,Report,Phone,Normal,1,24.1,6,15,5.83,open,4.0
+RQ-00415,2025-02-23 00:06:00,East,Region A,Document,Phone,Normal,0,9.3,7,5,0.6,open,
+RQ-00102,2025-02-23 08:20:00,Harbor,Region B,Report,Phone,Normal,0,28.9,7,16,2.27,closed,
+RQ-00217,2025-02-23 08:44:00,North,Region A,Lost Item,Phone,Normal,1,5.6,4,14,2.88,closed,
+RQ-00388,2025-02-23 10:06:00,Central,Region A,Report,Phone,Low,3,95.4,5,26,8.32,closed,
+RQ-00184,2025-02-23 11:45:00,Harbor,Region B,Report,Phone,Normal,1,39.5,7,11,1.6,closed,3.0
+RQ-00346,2025-02-23 14:46:00,Central,Region A,Traffic,Phone,Normal,1,32.2,6,17,3.53,closed,
+RQ-00425,2025-02-23 15:38:00,East,Region A,Lost Item,Walk-in,Normal,0,7.9,4,17,4.31,closed,4.0
+RQ-00160,2025-02-24 12:37:00,West,Region B,Report,Walk-in,Low,5,72.2,6,14,2.44,closed,4.0
+RQ-00042,2025-02-24 13:48:00,Central,Region A,Traffic,Phone,Normal,0,11.2,7,14,2.13,closed,5.0
+RQ-00056,2025-02-24 16:05:00,Central,Region A,Document,Phone,Low,2,12.6,6,16,1.77,closed,
+RQ-00210,2025-02-25 08:37:00,East,Region A,Noise,Walk-in,Normal,0,23.6,7,18,3.11,closed,3.0
+RQ-00240,2025-02-25 09:55:00,East,Region A,Noise,Phone,Low,1,27.6,5,21,6.87,closed,
+RQ-00207,2025-02-25 10:23:00,West,Region B,Report,Phone,High,3,105.4,5,19,5.87,open,3.0
+RQ-00065,2025-02-25 13:28:00,West,Region B,Report,Online,Low,3,115.7,8,18,3.37,open,
+RQ-00405,2025-02-25 13:33:00,East,Region A,Lost Item,Online,Normal,1,19.5,2,18,3.82,open,4.0
+RQ-00038,2025-02-26 06:50:00,East,Region A,Document,Phone,High,2,19.9,7,13,1.66,open,
+RQ-00096,2025-02-26 11:07:00,North,Region A,Lost Item,Online,High,2,17.4,3,19,6.1,closed,5.0
+RQ-00178,2025-02-26 15:19:00,Central,Region A,Traffic,Phone,Normal,1,10.2,7,13,3.2,closed,
+RQ-00031,2025-02-27 07:30:00,Central,Region A,Noise,Phone,Normal,1,21.3,5,14,4.65,closed,
+RQ-00332,2025-02-27 09:55:00,West,Region B,Traffic,Online,High,0,23.8,7,19,6.62,closed,4.0
+RQ-00187,2025-02-27 10:56:00,West,Region B,Report,Walk-in,Normal,1,33.0,7,26,8.49,open,3.0
+RQ-00368,2025-02-27 11:04:00,West,Region B,Traffic,Phone,Normal,4,68.6,6,20,2.02,closed,
+RQ-00330,2025-02-27 13:20:00,West,Region B,Report,Walk-in,High,4,104.0,7,19,5.65,closed,
+RQ-00147,2025-02-27 13:26:00,West,Region B,Document,Online,Normal,2,7.1,3,17,3.0,closed,4.0
+RQ-00347,2025-02-28 08:21:00,Central,Region A,Report,Phone,Normal,4,72.8,8,21,3.48,closed,
+RQ-00215,2025-02-28 08:30:00,Central,Region A,Report,Phone,Normal,1,48.2,5,22,3.78,closed,4.0
+RQ-00068,2025-02-28 09:20:00,North,Region A,Traffic,Walk-in,Normal,1,32.6,8,16,2.06,closed,
+RQ-00079,2025-02-28 12:48:00,North,Region A,Noise,Phone,Normal,0,8.3,8,17,3.57,closed,
+RQ-00196,2025-02-28 13:17:00,North,Region A,Noise,Phone,Normal,0,9.7,5,15,2.9,closed,
+RQ-00227,2025-02-28 15:31:00,West,Region B,Traffic,Phone,High,0,31.9,6,17,3.16,closed,
+RQ-00448,2025-02-28 16:20:00,West,Region B,Lost Item,Online,Normal,1,16.0,6,12,2.43,closed,4.0
+RQ-00372,2025-02-28 17:23:00,Central,Region A,Document,Phone,Normal,3,15.4,4,10,2.44,closed,
+RQ-00153,2025-02-28 17:52:00,East,Region A,Report,Walk-in,Normal,1,18.0,3,16,2.27,open,
+RQ-00441,2025-03-01 10:06:00,Harbor,Region B,Traffic,Walk-in,Low,2,31.3,7,17,3.03,closed,4.0
+RQ-00326,2025-03-01 11:31:00,West,Region B,Report,Online,Low,3,52.5,7,15,1.64,closed,5.0
+RQ-00008,2025-03-01 11:31:00,East,Region A,Lost Item,Online,Normal,2,3.9,7,20,3.78,closed,5.0
+RQ-00331,2025-03-01 11:59:00,Harbor,Region B,Document,Phone,Low,0,23.5,5,14,2.41,open,4.0
+RQ-00157,2025-03-01 12:31:00,West,Region B,Report,Online,Normal,3,96.2,3,15,2.83,open,4.0
+RQ-00037,2025-03-01 15:45:00,North,Region A,Noise,Online,Normal,0,13.2,8,22,3.86,open,
+RQ-00316,2025-03-01 19:06:00,Central,Region A,Document,Walk-in,Normal,0,6.0,8,5,0.87,closed,4.0
+RQ-00362,2025-03-01 20:22:00,West,Region B,Lost Item,Online,Normal,1,5.0,7,2,0.44,open,
+RQ-00225,2025-03-02 10:12:00,East,Region A,Lost Item,Phone,Low,1,27.8,6,25,13.08,closed,
+RQ-00389,2025-03-02 13:17:00,Central,Region A,Document,Phone,High,0,19.4,3,16,4.01,closed,3.0
+RQ-00185,2025-03-02 17:24:00,West,Region B,Report,Walk-in,Normal,1,41.5,8,18,4.6,closed,2.0
+RQ-00465,2025-03-03 09:39:00,East,Region A,Document,Online,Low,0,12.9,8,12,2.61,closed,5.0
+RQ-00224,2025-03-03 14:31:00,East,Region A,Report,Online,Low,4,110.8,8,20,8.16,closed,3.0
+RQ-00427,2025-03-03 14:38:00,East,Region A,Lost Item,Walk-in,Normal,1,23.2,5,9,1.64,closed,4.0
+RQ-00386,2025-03-03 16:13:00,North,Region A,Report,Walk-in,Normal,3,15.4,2,13,2.53,closed,
+RQ-00460,2025-03-04 12:48:00,West,Region B,Lost Item,Phone,Normal,1,7.8,6,12,2.79,closed,
+RQ-00311,2025-03-04 15:50:00,Harbor,Region B,Report,Phone,Normal,3,68.1,2,19,5.07,closed,4.0
+RQ-00383,2025-03-04 18:56:00,East,Region A,Report,Phone,Normal,1,54.7,7,17,2.44,closed,
+RQ-00339,2025-03-04 19:02:00,West,Region B,Document,Online,Normal,1,7.5,7,6,1.46,closed,4.0
+RQ-00053,2025-03-05 07:28:00,Harbor,Region B,Document,Phone,Normal,0,13.1,2,6,1.67,closed,
+RQ-00275,2025-03-05 11:00:00,Harbor,Region B,Noise,Online,Low,2,37.7,5,17,3.86,closed,3.0
+RQ-00074,2025-03-05 18:03:00,North,Region A,Report,Phone,Normal,3,42.3,5,11,1.83,closed,
+RQ-00283,2025-03-06 10:53:00,East,Region A,Report,Online,Low,2,23.1,4,19,4.0,closed,
+RQ-00179,2025-03-06 12:01:00,East,Region A,Report,Phone,Low,2,45.1,8,19,2.0,open,
+RQ-00366,2025-03-06 21:43:00,North,Region A,Report,Phone,Low,2,46.5,6,8,1.79,closed,5.0
+RQ-00121,2025-03-07 12:04:00,Central,Region A,Traffic,Online,Normal,0,27.3,2,14,2.69,closed,4.0
+RQ-00109,2025-03-07 17:04:00,Central,Region A,Document,Online,Low,2,19.9,4,16,5.26,closed,5.0
+RQ-00228,2025-03-07 17:42:00,South,Region B,Report,Walk-in,Low,0,15.8,2,9,2.42,closed,4.0
+RQ-00263,2025-03-07 18:58:00,Central,Region A,Traffic,Online,Normal,0,53.8,5,11,1.71,open,5.0
+RQ-00358,2025-03-08 08:10:00,East,Region A,Traffic,Walk-in,Normal,1,39.5,8,20,2.58,closed,
+RQ-00300,2025-03-08 10:32:00,East,Region A,Lost Item,Walk-in,Normal,0,12.6,4,19,4.76,open,4.0
+RQ-00119,2025-03-08 10:49:00,East,Region A,Report,Phone,High,3,69.1,8,19,3.01,open,
+RQ-00229,2025-03-08 17:58:00,South,Region B,Traffic,Online,High,2,76.7,6,16,2.37,closed,4.0
+RQ-00417,2025-03-09 01:53:00,West,Region B,Noise,Online,Normal,0,6.4,5,1,1.18,closed,4.0
+RQ-00067,2025-03-09 08:41:00,South,Region B,Document,Online,Normal,0,10.3,4,19,4.82,closed,
+RQ-00471,2025-03-09 13:21:00,Harbor,Region B,Report,Online,Normal,4,46.9,6,14,2.62,closed,
+RQ-00416,2025-03-09 13:45:00,East,Region A,Lost Item,Online,Normal,1,30.4,8,19,3.07,open,4.0
+RQ-00199,2025-03-09 14:45:00,West,Region B,Traffic,Phone,Normal,0,19.1,3,21,7.74,closed,
+RQ-00309,2025-03-10 01:16:00,Central,Region A,Document,Walk-in,Normal,1,11.0,5,2,0.97,closed,4.0
+RQ-00101,2025-03-10 11:01:00,Central,Region A,Noise,Phone,Normal,1,33.1,2,19,5.24,closed,
+RQ-00055,2025-03-10 11:57:00,North,Region A,Report,Online,Normal,4,61.5,4,16,4.76,closed,4.0
+RQ-00259,2025-03-10 12:17:00,East,Region A,Document,Online,High,0,7.2,5,19,4.36,closed,4.0
+RQ-00333,2025-03-10 16:36:00,Central,Region A,Report,Phone,Low,0,27.9,7,15,2.88,open,
+RQ-00148,2025-03-10 18:00:00,South,Region B,Traffic,Walk-in,Normal,1,24.5,5,12,2.72,closed,4.0
+RQ-00461,2025-03-10 23:12:00,West,Region B,Traffic,Online,Low,0,18.7,3,2,1.3,closed,4.0
+RQ-00163,2025-03-11 09:08:00,East,Region A,Noise,Walk-in,Normal,3,12.0,8,18,2.71,closed,4.0
+RQ-00476,2025-03-11 09:37:00,North,Region A,Traffic,Online,High,1,7.4,5,19,4.36,open,
+RQ-00287,2025-03-11 11:00:00,East,Region A,Report,Online,Normal,2,72.8,6,20,5.4,open,
+RQ-00023,2025-03-11 12:55:00,Central,Region A,Lost Item,Phone,Normal,1,33.9,5,18,6.64,closed,
+RQ-00349,2025-03-11 16:39:00,North,Region A,Traffic,Online,Normal,2,36.1,4,17,7.8,closed,
+RQ-00282,2025-03-11 17:04:00,North,Region A,Document,Online,Normal,2,11.5,3,19,5.4,closed,
+RQ-00090,2025-03-11 18:29:00,West,Region B,Report,Phone,Low,1,24.2,8,7,2.42,closed,
+RQ-00412,2025-03-11 20:17:00,Harbor,Region B,Traffic,Phone,Normal,2,30.7,6,7,1.02,closed,
+RQ-00421,2025-03-12 10:50:00,East,Region A,Traffic,Phone,Low,1,25.6,8,19,3.71,closed,4.0
+RQ-00156,2025-03-12 13:04:00,East,Region A,Document,Online,Low,0,8.1,5,13,1.68,closed,4.0
+RQ-00248,2025-03-12 15:36:00,North,Region A,Report,Walk-in,Low,4,44.6,5,9,1.91,closed,5.0
+RQ-00277,2025-03-12 17:24:00,North,Region A,Lost Item,Walk-in,Low,0,16.4,7,10,1.05,closed,
+RQ-00406,2025-03-13 10:33:00,East,Region A,Lost Item,Phone,Normal,2,30.2,2,22,8.49,open,
+RQ-00404,2025-03-13 13:44:00,East,Region A,Traffic,Phone,Low,0,14.9,5,16,3.84,closed,2.0
+RQ-00189,2025-03-13 14:35:00,North,Region A,Traffic,Walk-in,Low,1,17.8,3,16,5.95,closed,3.0
+RQ-00436,2025-03-13 17:32:00,North,Region A,Noise,Online,Low,0,5.6,4,17,3.1,closed,4.0
+RQ-00130,2025-03-13 17:54:00,East,Region A,Document,Phone,Low,1,4.6,6,17,2.43,closed,
+RQ-00035,2025-03-14 11:56:00,South,Region B,Lost Item,Phone,High,3,64.8,6,12,2.98,closed,
+RQ-00112,2025-03-14 12:03:00,North,Region A,Noise,Walk-in,Low,2,9.2,6,16,3.07,closed,4.0
+RQ-00243,2025-03-14 12:57:00,North,Region A,Report,Phone,Normal,3,33.4,7,12,1.31,closed,
+RQ-00124,2025-03-14 13:41:00,North,Region A,Traffic,Online,Low,1,24.2,7,15,2.73,open,
+RQ-00451,2025-03-14 14:18:00,West,Region B,Traffic,Walk-in,High,0,20.3,3,16,2.51,open,5.0
+RQ-00027,2025-03-14 14:25:00,West,Region B,Report,Phone,Low,1,13.1,6,15,2.61,closed,3.0
+RQ-00036,2025-03-14 15:20:00,West,Region B,Lost Item,Phone,High,1,29.9,7,13,2.28,closed,
+RQ-00024,2025-03-14 18:43:00,East,Region A,Document,Online,Low,1,5.5,7,4,0.76,closed,5.0
+RQ-00182,2025-03-14 19:02:00,Central,Region A,Traffic,Walk-in,Normal,2,57.2,5,10,3.05,closed,4.0
+RQ-00393,2025-03-14 22:28:00,South,Region B,Traffic,Phone,Normal,2,59.9,2,7,1.02,closed,5.0
+RQ-00403,2025-03-15 05:20:00,South,Region B,Lost Item,Phone,Normal,2,14.7,3,10,4.94,closed,
+RQ-00004,2025-03-15 08:36:00,South,Region B,Traffic,Phone,High,0,34.4,4,20,5.15,closed,
+RQ-00258,2025-03-15 08:39:00,Harbor,Region B,Report,Phone,Normal,2,50.5,3,20,10.62,open,2.0
+RQ-00051,2025-03-15 11:49:00,Central,Region A,Report,Online,Normal,3,86.3,6,18,3.82,closed,
+RQ-00007,2025-03-15 17:54:00,East,Region A,Document,Phone,Normal,3,13.5,5,12,4.1,closed,4.0
+RQ-00335,2025-03-15 18:54:00,West,Region B,Lost Item,Online,Normal,1,31.4,6,14,2.7,closed,3.0
+RQ-00052,2025-03-16 11:39:00,Central,Region A,Report,Phone,Normal,2,41.4,2,14,3.54,open,5.0
+RQ-00193,2025-03-16 13:12:00,Harbor,Region B,Report,Online,Normal,4,95.9,8,16,0.74,closed,
+RQ-00115,2025-03-16 13:52:00,South,Region B,Report,Online,Normal,1,29.1,8,19,2.98,closed,4.0
+RQ-00478,2025-03-16 13:56:00,South,Region B,Report,Phone,Normal,5,14.6,5,16,3.66,closed,
+RQ-00457,2025-03-16 16:12:00,South,Region B,Report,Online,High,5,54.6,6,13,2.72,closed,5.0
+RQ-00329,2025-03-16 16:19:00,North,Region A,Report,Online,Normal,0,28.0,7,13,1.59,open,4.0
+RQ-00430,2025-03-16 16:32:00,Central,Region A,Lost Item,Walk-in,Normal,0,34.5,5,12,2.04,open,
+RQ-00192,2025-03-16 18:18:00,East,Region A,Report,Online,Normal,6,50.4,2,10,3.25,closed,
+RQ-00255,2025-03-17 11:52:00,North,Region A,Traffic,Phone,Normal,3,35.5,4,20,6.84,closed,
+RQ-00452,2025-03-17 12:01:00,East,Region A,Traffic,Phone,Normal,2,41.6,3,13,5.24,closed,3.0
+RQ-00364,2025-03-17 19:29:00,West,Region B,Lost Item,Phone,Normal,1,36.3,7,11,1.37,closed,
+RQ-00188,2025-03-18 06:53:00,Central,Region A,Report,Walk-in,Low,1,23.8,8,4,0.76,closed,
+RQ-00252,2025-03-18 08:08:00,Harbor,Region B,Traffic,Online,Low,3,20.4,5,14,3.56,closed,
+RQ-00204,2025-03-18 08:13:00,North,Region A,Traffic,Phone,Normal,3,46.1,7,16,2.27,closed,
+RQ-00291,2025-03-18 10:43:00,East,Region A,Report,Phone,Normal,3,93.3,6,20,1.97,closed,5.0
+RQ-00384,2025-03-18 12:30:00,East,Region A,Report,Walk-in,Normal,3,60.3,4,12,5.42,closed,
+RQ-00418,2025-03-19 09:25:00,East,Region A,Noise,Phone,Normal,1,14.6,5,14,3.26,closed,
+RQ-00050,2025-03-19 12:21:00,Central,Region A,Report,Online,Normal,5,7.6,8,17,2.1,closed,5.0
+RQ-00236,2025-03-19 13:10:00,South,Region B,Traffic,Phone,High,1,56.6,7,21,5.31,closed,
+RQ-00351,2025-03-19 14:17:00,Central,Region A,Document,Phone,Normal,1,19.3,2,20,4.37,open,4.0
+RQ-00308,2025-03-19 14:17:00,West,Region B,Lost Item,Phone,Low,1,31.2,2,21,8.47,closed,4.0
+RQ-00246,2025-03-19 15:15:00,Central,Region A,Document,Phone,High,0,18.4,5,19,5.12,closed,
+RQ-00454,2025-03-19 17:11:00,North,Region A,Document,Online,Normal,2,12.9,6,14,2.41,open,3.0
+RQ-00272,2025-03-20 06:09:00,East,Region A,Traffic,Walk-in,Low,1,24.5,8,5,0.71,closed,4.0
+RQ-00064,2025-03-20 09:25:00,East,Region A,Report,Phone,Normal,0,13.7,4,19,2.74,open,
+RQ-00361,2025-03-20 14:19:00,West,Region B,Report,Online,Normal,0,25.4,4,15,11.01,open,
+RQ-00470,2025-03-20 14:38:00,Harbor,Region B,Lost Item,Online,Low,1,25.2,2,22,16.09,closed,2.0
+RQ-00334,2025-03-20 16:01:00,North,Region A,Noise,Walk-in,Low,1,18.7,3,9,1.65,closed,4.0
+RQ-00341,2025-03-20 16:05:00,Harbor,Region B,Report,Phone,Normal,2,28.3,7,18,4.15,closed,
+RQ-00082,2025-03-20 23:51:00,North,Region A,Report,Phone,Low,4,52.2,4,0,1.48,closed,3.0
+RQ-00137,2025-03-21 00:15:00,South,Region B,Document,Online,High,1,10.6,3,3,1.98,closed,5.0
+RQ-00220,2025-03-21 04:31:00,East,Region A,Report,Online,Low,4,46.5,3,0,0.79,closed,4.0
+RQ-00141,2025-03-21 08:35:00,West,Region B,Noise,Phone,Normal,1,27.9,8,12,1.72,closed,3.0
+RQ-00150,2025-03-21 09:19:00,East,Region A,Traffic,Walk-in,Low,1,27.4,4,19,2.88,closed,
+RQ-00247,2025-03-21 14:05:00,Central,Region A,Noise,Online,Normal,3,31.9,4,16,4.2,closed,4.0
+RQ-00012,2025-03-21 14:38:00,West,Region B,Report,Phone,High,5,36.5,4,22,5.4,closed,
+RQ-00046,2025-03-21 15:40:00,North,Region A,Lost Item,Walk-in,Low,0,18.8,3,14,3.46,closed,4.0
+RQ-00125,2025-03-21 17:17:00,East,Region A,Document,Walk-in,Normal,1,17.7,7,12,0.97,closed,3.0
+RQ-00268,2025-03-21 18:46:00,South,Region B,Traffic,Walk-in,Low,1,19.4,6,7,1.41,closed,
+RQ-00063,2025-03-22 03:18:00,North,Region A,Noise,Phone,High,0,23.7,3,0,0.79,open,
+RQ-00034,2025-03-22 09:25:00,East,Region A,Report,Online,Normal,1,9.8,6,14,2.41,closed,
+RQ-00445,2025-03-22 15:21:00,Harbor,Region B,Report,Phone,Low,2,55.4,6,19,4.39,closed,4.0
+RQ-00168,2025-03-22 19:03:00,Central,Region A,Traffic,Online,Normal,0,27.3,6,13,2.2,closed,3.0
+RQ-00201,2025-03-22 21:36:00,North,Region A,Document,Phone,Normal,1,4.3,7,4,1.34,closed,4.0
+RQ-00106,2025-03-22 23:24:00,South,Region B,Report,Online,Normal,0,26.7,4,3,1.23,closed,5.0
+RQ-00267,2025-03-23 08:37:00,West,Region B,Report,Online,Normal,1,7.6,5,22,5.17,closed,4.0
+RQ-00133,2025-03-23 10:54:00,North,Region A,Report,Phone,Normal,4,51.5,6,21,5.59,closed,
+RQ-00373,2025-03-23 14:22:00,Harbor,Region B,Lost Item,Phone,Normal,0,3.6,8,12,4.58,closed,4.0
+RQ-00097,2025-03-23 16:25:00,West,Region B,Document,Phone,Low,1,20.3,3,10,4.28,closed,
+RQ-00250,2025-03-24 10:26:00,Harbor,Region B,Report,Online,Normal,3,69.0,5,14,2.68,open,4.0
+RQ-00226,2025-03-24 12:28:00,West,Region B,Lost Item,Phone,High,2,9.3,2,15,3.81,closed,
+RQ-00072,2025-03-24 13:54:00,Central,Region A,Traffic,Phone,Normal,0,16.2,7,17,5.47,closed,3.0
+RQ-00323,2025-03-24 19:05:00,North,Region A,Report,Online,Normal,6,49.8,8,11,1.16,closed,5.0
+RQ-00180,2025-03-25 07:34:00,West,Region B,Lost Item,Online,Normal,0,9.8,6,9,1.25,open,4.0
+RQ-00002,2025-03-25 13:46:00,East,Region A,Report,Phone,Low,4,49.7,6,18,2.96,closed,4.0
+RQ-00061,2025-03-25 14:18:00,Harbor,Region B,Traffic,Walk-in,Normal,1,10.5,5,20,3.96,closed,
+RQ-00294,2025-03-25 15:10:00,South,Region B,Traffic,Online,Normal,1,20.0,5,12,2.06,closed,4.0
+RQ-00081,2025-03-25 15:52:00,North,Region A,Document,Walk-in,Normal,1,8.4,6,19,3.88,open,3.0
+RQ-00128,2025-03-25 16:40:00,West,Region B,Document,Online,Low,0,463.8,5,18,2.01,closed,
+RQ-00266,2025-03-26 08:38:00,West,Region B,Lost Item,Phone,Normal,1,34.0,4,16,4.94,closed,3.0
+RQ-00205,2025-03-26 11:49:00,Harbor,Region B,Traffic,Online,Low,2,23.9,2,19,7.84,closed,3.0
+RQ-00077,2025-03-26 11:53:00,South,Region B,Report,Phone,Low,1,43.5,6,11,2.64,open,5.0
+RQ-00420,2025-03-26 12:11:00,East,Region A,Noise,Online,High,2,44.4,8,17,3.1,closed,4.0
+RQ-00114,2025-03-26 13:36:00,Central,Region A,Document,Phone,High,0,14.5,3,17,4.31,closed,
+RQ-00353,2025-03-26 13:47:00,Central,Region A,Traffic,Online,Low,2,44.0,2,14,3.09,closed,5.0
+RQ-00139,2025-03-26 14:43:00,Central,Region A,Document,Walk-in,Normal,0,12.6,3,19,4.71,closed,4.0
+RQ-00116,2025-03-26 16:17:00,Central,Region A,Document,Phone,Normal,0,10.4,7,16,3.63,open,4.0
+RQ-00131,2025-03-26 19:31:00,South,Region B,Document,Phone,Normal,0,15.6,5,11,1.25,closed,
+RQ-00435,2025-03-27 20:59:00,North,Region A,Document,Online,Normal,0,4.2,4,8,2.57,closed,5.0
+RQ-00123,2025-03-28 00:38:00,Harbor,Region B,Traffic,Phone,Normal,1,36.4,6,0,0.59,closed,
+RQ-00433,2025-03-28 08:08:00,North,Region A,Traffic,Phone,Low,1,24.5,5,17,5.18,closed,5.0
+RQ-00058,2025-03-28 11:57:00,Central,Region A,Document,Online,Normal,2,28.6,8,21,6.92,closed,4.0
+RQ-00138,2025-03-28 14:16:00,West,Region B,Document,Phone,Normal,3,23.4,2,18,3.7,closed,
+RQ-00302,2025-03-28 18:03:00,Central,Region A,Document,Online,Low,2,20.5,8,14,2.73,closed,5.0
+RQ-00017,2025-03-29 05:32:00,South,Region B,Lost Item,Phone,Low,0,17.8,2,3,0.92,closed,5.0
+RQ-00015,2025-03-29 08:56:00,North,Region A,Traffic,Online,Low,2,22.3,7,20,4.5,closed,3.0
+RQ-00380,2025-03-29 10:30:00,North,Region A,Report,Online,Low,0,12.2,5,19,3.77,open,5.0
+RQ-00191,2025-03-29 12:00:00,Harbor,Region B,Report,Online,Normal,1,42.7,7,21,3.05,closed,
+RQ-00098,2025-03-29 14:33:00,South,Region B,Noise,Walk-in,Normal,1,17.1,8,22,2.49,closed,4.0
+RQ-00208,2025-03-29 14:50:00,North,Region A,Traffic,Phone,Low,1,18.8,7,19,3.37,open,
+RQ-00232,2025-03-29 16:38:00,Central,Region A,Traffic,Phone,Low,1,47.6,6,11,2.81,closed,
+RQ-00127,2025-03-29 22:37:00,South,Region B,Traffic,Phone,Low,0,13.0,2,4,1.27,closed,5.0
+RQ-00234,2025-03-30 05:17:00,South,Region B,Document,Phone,High,2,11.4,6,4,0.82,closed,4.0
+RQ-00142,2025-03-30 13:15:00,Central,Region A,Noise,Phone,Low,1,12.4,7,16,4.07,closed,
+RQ-00076,2025-03-30 17:30:00,South,Region B,Traffic,Phone,Low,1,13.0,2,10,3.05,closed,4.0
+RQ-00033,2025-03-30 17:53:00,North,Region A,Document,Walk-in,Low,0,12.3,2,13,5.02,closed,5.0
+RQ-00019,2025-03-30 18:08:00,West,Region B,Report,Phone,Normal,3,22.5,4,6,0.9,closed,4.0
+RQ-00463,2025-03-30 21:38:00,North,Region A,Lost Item,Online,Normal,0,17.2,3,9,1.8,closed,5.0
+RQ-00152,2025-03-31 06:45:00,North,Region A,Report,Online,Normal,3,14.5,5,6,1.31,open,4.0
+RQ-00104,2025-03-31 08:08:00,Central,Region A,Lost Item,Online,High,0,13.5,5,19,6.3,closed,
+RQ-00075,2025-03-31 10:13:00,Central,Region A,Report,Phone,Normal,4,20.0,6,21,3.79,closed,
+RQ-00117,2025-03-31 12:01:00,North,Region A,Traffic,Phone,Low,1,32.3,6,22,6.26,closed,
+RQ-00165,2025-03-31 20:01:00,West,Region B,Lost Item,Phone,Low,3,45.2,3,7,2.05,closed,
