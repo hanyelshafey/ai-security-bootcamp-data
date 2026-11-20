@@ -1,0 +1,361 @@
+request_id,opened_at,desk,region,channel,request_type,priority,attachments,backlog_at_open,staff_on_shift,first_action_at,completed_at,status,minutes,outcome,supervisor_id,escalated,satisfaction
+DM-00001,2025-01-01 08:41,Harbor,Coast,Walk-in,Lost Item,low,3,4,4,2025-01-01 11:03,2025-01-01 17:20,closed,20.9,referred,,0,2
+DM-00002,2025-01-01 12:13,Harbor,Coast,Online,Traffic,low,1,13,6,2025-01-01 14:59,2025-01-01 23:55,closed,56.7,resolved,,0,4
+DM-00003,2025-01-02 07:29,West,Inland,Walk-in,Report,low,2,5,5,2025-01-02 07:46,2025-01-02 09:42,closed,40.6,referred,,0,4
+DM-00004,2025-01-02 11:22,East,Metro,Online,Traffic,normal,2,11,5,2025-01-02 12:17,2025-01-02 13:16,closed,25.4,referred,,0,
+DM-00005,2025-01-02 11:37,North,Metro,Online,Document,normal,0,18,4,2025-01-02 14:23,,open,,,,,
+DM-00006,2025-01-02 11:50,West,Inland,Phone,Report,normal,1,15,3,2025-01-03 03:18,2025-01-03 06:13,closed,48.1,resolved,,0,4
+DM-00007,2025-01-02 13:52,West,Inland,Walk-in,Lost Item,low,0,9,5,2025-01-02 17:13,2025-01-02 21:21,closed,5.8,rejected,,0,
+DM-00008,2025-01-03 06:19,East,Metro,Walk-in,Document,normal,0,8,4,2025-01-03 07:33,2025-01-03 12:31,closed,27.1,resolved,,0,2
+DM-00009,2025-01-03 11:42,South,Coast,Phone,Lost Item,normal,0,9,6,2025-01-03 14:26,2025-01-03 17:21,closed,28.6,referred,SUP-01,1,
+DM-00010,2025-01-03 12:08,Central,Metro,Walk-in,Traffic,normal,2,19,3,2025-01-04 02:58,2025-01-04 04:56,closed,15.9,resolved,,0,3
+DM-00011,2025-01-03 17:19,Harbor,Coast,Walk-in,Document,high,0,4,5,2025-01-03 18:53,2025-01-04 04:40,closed,23.6,referred,SUP-03,1,
+DM-00012,2025-01-03 19:56,Central,Metro,Online,Report,normal,1,7,3,2025-01-03 20:51,2025-01-04 04:13,closed,11.7,resolved,,0,
+DM-00013,2025-01-04 10:30,East,Metro,Phone,Traffic,normal,1,10,5,2025-01-04 12:36,2025-01-04 22:14,closed,41.3,referred,SUP-04,1,
+DM-00014,2025-01-04 11:49,North,Metro,Online,Report,high,1,13,5,2025-01-04 14:15,2025-01-04 20:49,closed,48.6,referred,SUP-03,1,4
+DM-00015,2025-01-05 09:18,East,Metro,Online,Lost Item,normal,1,11,2,2025-01-05 14:55,2025-01-06 00:50,closed,22.9,resolved,,0,4
+DM-00016,2025-01-05 11:29,Central,Metro,Walk-in,Report,low,1,15,2,2025-01-05 14:45,2025-01-05 19:34,closed,51.3,resolved,,0,
+DM-00017,2025-01-05 12:27,Harbor,Coast,Walk-in,Traffic,high,1,9,4,2025-01-05 14:13,2025-01-05 15:35,closed,35.4,resolved,,0,5
+DM-00018,2025-01-05 12:39,West,Inland,Online,Report,normal,3,16,2,2025-01-05 17:21,2025-01-06 03:05,closed,17.2,resolved,,0,
+DM-00019,2025-01-05 13:08,South,Coast,Phone,Traffic,normal,3,15,5,2025-01-05 14:43,2025-01-05 16:54,closed,52.3,resolved,,0,
+DM-00020,2025-01-05 14:29,North,Metro,Phone,Traffic,low,0,14,5,2025-01-05 18:58,2025-01-06 00:00,closed,9.0,resolved,,0,
+DM-00021,2025-01-05 15:02,South,Coast,Walk-in,Traffic,normal,0,9,3,2025-01-05 17:34,2025-01-06 03:31,closed,21.5,resolved,,0,
+DM-00022,2025-01-06 07:05,Harbor,Coast,Online,Report,normal,1,6,6,2025-01-06 09:30,2025-01-06 12:28,closed,7.6,resolved,,0,2
+DM-00023,2025-01-06 08:52,North,Metro,Online,Lost Item,low,3,14,3,2025-01-06 10:44,2025-01-06 15:25,closed,28.6,resolved,,0,4
+DM-00024,2025-01-06 11:50,West,Inland,Walk-in,Report,normal,3,7,5,2025-01-06 12:20,2025-01-06 13:53,closed,46.7,resolved,SUP-01,1,
+DM-00025,2025-01-06 12:30,Central,Metro,Phone,Report,normal,2,9,4,2025-01-06 15:11,2025-01-06 23:14,closed,17.2,resolved,,0,
+DM-00026,2025-01-06 13:31,Central,Metro,Walk-in,Report,normal,2,22,2,2025-01-06 15:47,2025-01-07 00:01,closed,54.5,resolved,,0,
+DM-00027,2025-01-06 14:28,South,Coast,Online,Lost Item,normal,0,16,6,2025-01-06 16:12,2025-01-06 21:01,closed,21.3,resolved,,0,5
+DM-00028,2025-01-06 16:35,East,Metro,Online,Report,normal,0,5,3,2025-01-07 03:33,2025-01-07 12:44,closed,11.0,rejected,,0,
+DM-00029,2025-01-06 16:42,South,Coast,Walk-in,Report,normal,2,7,6,2025-01-06 18:37,2025-01-07 01:17,closed,16.3,resolved,,0,
+DM-00030,2025-01-06 19:22,Harbor,Coast,Phone,Traffic,normal,0,9,4,2025-01-06 20:36,2025-01-07 04:10,closed,20.9,referred,SUP-02,1,
+DM-00031,2025-01-07 10:39,North,Metro,Phone,Document,low,0,8,3,2025-01-07 12:08,2025-01-07 13:36,closed,9.2,resolved,,0,
+DM-00032,2025-01-07 11:35,East,Metro,Online,Traffic,normal,0,16,2,2025-01-07 14:49,2025-01-07 19:34,closed,35.3,resolved,,0,3
+DM-00033,2025-01-08 07:03,North,Metro,Walk-in,Traffic,normal,1,15,4,2025-01-08 15:14,2025-01-08 21:25,closed,14.9,resolved,,0,
+DM-00034,2025-01-08 07:33,South,Coast,Walk-in,Lost Item,normal,0,9,5,2025-01-08 09:23,2025-01-08 17:51,closed,55.8,referred,SUP-02,1,
+DM-00035,2025-01-08 14:02,East,Metro,Online,Report,normal,1,16,6,2025-01-08 16:08,2025-01-08 21:31,closed,19.0,referred,SUP-01,1,
+DM-00036,2025-01-08 15:44,East,Metro,Walk-in,Traffic,low,2,7,5,2025-01-08 21:54,2025-01-09 07:40,closed,7.9,resolved,,0,4
+DM-00037,2025-01-09 07:54,Central,Metro,Walk-in,Report,low,1,11,5,2025-01-09 09:08,2025-01-09 14:34,closed,50.6,resolved,SUP-01,1,
+DM-00038,2025-01-09 09:22,North,Metro,Walk-in,Traffic,low,1,11,2,2025-01-09 14:03,2025-01-09 19:44,closed,49.6,referred,SUP-03,1,2
+DM-00039,2025-01-09 12:29,North,Metro,Walk-in,Report,normal,2,20,2,2025-01-09 16:55,2025-01-09 20:02,closed,23.7,resolved,,0,4
+DM-00040,2025-01-09 17:49,Harbor,Coast,Phone,Report,normal,2,6,4,2025-01-09 19:41,2025-01-09 23:05,closed,54.1,referred,,0,4
+DM-00041,2025-01-10 09:13,Central,Metro,Walk-in,Document,normal,1,15,6,2025-01-10 10:12,2025-01-10 16:41,closed,11.7,resolved,,0,
+DM-00042,2025-01-10 12:48,North,Metro,Online,Traffic,normal,0,10,3,2025-01-10 19:01,2025-01-10 21:05,closed,36.0,resolved,,0,5
+DM-00043,2025-01-10 13:08,North,Metro,Walk-in,Lost Item,low,0,14,4,2025-01-10 14:46,2025-01-10 20:22,closed,6.5,resolved,,0,3
+DM-00044,2025-01-10 15:48,East,Metro,Phone,Report,normal,2,14,5,2025-01-10 16:58,2025-01-10 22:49,closed,37.8,referred,SUP-03,1,
+DM-00045,2025-01-11 11:50,West,Inland,Online,Report,normal,1,10,4,2025-01-11 14:44,2025-01-11 21:49,closed,114.6,referred,SUP-04,1,
+DM-00046,2025-01-11 15:46,Harbor,Coast,Phone,Document,normal,1,10,5,2025-01-11 19:45,2025-01-12 04:26,closed,29.3,resolved,,0,4
+DM-00047,2025-01-12 07:05,East,Metro,Online,Report,low,1,13,6,2025-01-12 09:05,2025-01-12 16:55,closed,20.6,resolved,,0,4
+DM-00048,2025-01-12 09:12,South,Coast,Phone,Document,normal,2,10,3,2025-01-12 11:07,2025-01-12 20:05,closed,10.8,rejected,,0,3
+DM-00049,2025-01-12 13:44,Central,Metro,Walk-in,Traffic,low,1,20,2,2025-01-12 17:00,2025-01-12 20:07,closed,12.7,resolved,,0,4
+DM-00050,2025-01-12 19:14,South,Coast,Online,Traffic,normal,2,8,3,2025-01-13 09:19,2025-01-13 18:30,closed,12.8,resolved,,0,
+DM-00051,2025-01-13 08:33,West,Inland,Online,Traffic,normal,0,6,5,2025-01-13 12:16,2025-01-13 15:58,closed,9.8,resolved,,0,5
+DM-00052,2025-01-13 15:28,North,Metro,Online,Report,normal,1,9,4,2025-01-13 17:43,2025-01-14 02:09,closed,46.6,resolved,,0,4
+DM-00053,2025-01-13 16:36,North,Metro,Walk-in,Report,normal,3,10,4,2025-01-13 18:22,2025-01-13 20:10,closed,40.5,resolved,,0,3
+DM-00054,2025-01-14 08:40,South,Coast,Phone,Document,low,1,8,4,2025-01-14 09:40,2025-01-14 18:59,closed,12.1,resolved,,0,
+DM-00055,2025-01-14 08:50,North,Metro,Walk-in,Traffic,normal,0,8,4,2025-01-14 16:13,2025-01-14 22:53,closed,15.6,rejected,,0,4
+DM-00056,2025-01-14 09:04,Central,Metro,Walk-in,Traffic,low,2,12,2,2025-01-14 09:59,2025-01-14 15:52,closed,29.5,resolved,,0,5
+DM-00057,2025-01-14 11:24,Harbor,Coast,Phone,Report,normal,3,12,3,2025-01-14 19:09,2025-01-15 05:25,closed,51.3,resolved,,0,5
+DM-00058,2025-01-14 14:47,Harbor,Coast,Online,Lost Item,normal,1,10,6,2025-01-14 14:58,2025-01-14 20:17,closed,16.1,resolved,,0,
+DM-00059,2025-01-14 15:38,East,Metro,Walk-in,Document,low,1,9,6,2025-01-14 16:25,2025-01-14 18:07,closed,11.1,resolved,,0,4
+DM-00060,2025-01-14 16:54,East,Metro,Online,Lost Item,low,0,14,6,2025-01-14 19:47,2025-01-14 20:44,closed,10.6,resolved,,0,
+DM-00061,2025-01-15 13:06,West,Inland,Online,Lost Item,normal,1,12,5,2025-01-15 14:51,2025-01-15 19:58,closed,41.2,referred,,0,
+DM-00062,2025-01-15 15:57,East,Metro,Online,Report,normal,3,9,3,2025-01-16 00:38,2025-01-16 05:29,closed,15.5,resolved,,0,
+DM-00063,2025-01-16 07:09,West,Inland,Online,Traffic,low,0,12,6,2025-01-16 07:56,2025-01-16 15:12,closed,15.8,resolved,,0,4
+DM-00064,2025-01-16 08:04,South,Coast,Online,Report,high,3,8,4,2025-01-16 12:53,2025-01-16 16:13,closed,39.7,referred,SUP-03,1,
+DM-00065,2025-01-16 13:35,Central,Metro,Online,Report,high,2,13,2,2025-01-16 21:15,2025-01-17 03:11,closed,40.5,resolved,,0,5
+DM-00066,2025-01-16 13:45,Central,Metro,Walk-in,Report,normal,2,14,2,2025-01-16 14:17,2025-01-17 00:10,closed,53.3,resolved,,0,4
+DM-00067,2025-01-16 17:08,South,Coast,Phone,Report,normal,2,7,2,2025-01-16 19:18,2025-01-16 20:54,closed,55.9,resolved,,0,3
+DM-00068,2025-01-17 06:24,North,Metro,Phone,Traffic,normal,0,17,2,2025-01-17 16:26,2025-01-17 21:25,closed,25.9,resolved,,0,
+DM-00069,2025-01-17 11:47,North,Metro,Walk-in,Lost Item,normal,1,14,6,2025-01-17 12:16,2025-01-17 22:15,closed,36.6,resolved,,0,
+DM-00070,2025-01-17 12:13,South,Coast,Phone,Document,low,2,16,3,2025-01-17 17:54,2025-01-17 20:43,closed,7.3,referred,,0,
+DM-00071,2025-01-17 14:43,Harbor,Coast,Phone,Lost Item,high,0,16,6,2025-01-17 15:52,2025-01-17 19:58,closed,3.8,resolved,,0,5
+DM-00072,2025-01-18 10:11,East,Metro,Phone,Report,normal,1,10,2,2025-01-18 12:28,2025-01-18 21:54,closed,18.9,resolved,,0,
+DM-00073,2025-01-18 10:25,East,Metro,Phone,Report,low,3,16,4,2025-01-18 20:23,2025-01-18 21:56,closed,22.0,resolved,,0,
+DM-00074,2025-01-18 12:30,Central,Metro,Online,Lost Item,low,2,11,6,2025-01-18 13:08,2025-01-18 17:48,closed,23.7,resolved,,0,5
+DM-00075,2025-01-18 17:46,South,Coast,Walk-in,Document,low,1,11,3,2025-01-18 23:44,2025-01-19 00:43,closed,20.7,resolved,,0,
+DM-00076,2025-01-19 13:29,Central,Metro,Online,Lost Item,normal,1,13,5,2025-01-19 14:39,2025-01-19 19:51,closed,9.5,resolved,,0,5
+DM-00077,2025-01-20 07:04,Central,Metro,Phone,Report,high,2,14,5,2025-01-20 09:44,2025-01-20 15:52,closed,44.2,resolved,,0,
+DM-00078,2025-01-20 10:51,North,Metro,Online,Lost Item,normal,3,16,4,2025-01-20 12:45,2025-01-20 17:02,closed,21.7,resolved,,0,
+DM-00079,2025-01-20 10:56,North,Metro,Walk-in,Report,normal,5,18,2,2025-01-20 11:23,2025-01-20 21:17,closed,76.1,referred,SUP-03,1,3
+DM-00080,2025-01-21 07:03,North,Metro,Walk-in,Traffic,normal,1,8,4,2025-01-21 09:55,2025-01-21 12:37,closed,41.5,resolved,,0,4
+DM-00081,2025-01-21 08:32,Harbor,Coast,Online,Lost Item,normal,1,3,4,2025-01-21 11:24,2025-01-21 21:39,closed,21.4,resolved,,0,4
+DM-00082,2025-01-21 10:34,West,Inland,Phone,Report,normal,2,9,4,2025-01-21 12:02,2025-01-21 21:52,closed,10.3,resolved,,0,3
+DM-00083,2025-01-21 11:30,Central,Metro,Online,Document,high,1,20,3,2025-01-21 12:13,2025-01-21 21:38,closed,12.3,rejected,,0,
+DM-00084,2025-01-21 16:03,West,Inland,Online,Traffic,low,1,6,3,2025-01-21 17:49,2025-01-22 01:41,closed,15.5,resolved,,0,
+DM-00085,2025-01-22 07:00,Central,Metro,Phone,Traffic,low,1,10,5,2025-01-22 08:38,2025-01-22 13:58,closed,19.1,resolved,,0,4
+DM-00086,2025-01-22 10:00,North,Metro,Walk-in,Report,low,0,15,6,2025-01-22 10:28,,open,,,,,
+DM-00087,2025-01-22 14:24,East,Metro,Phone,Traffic,high,1,22,2,2025-01-22 14:45,2025-01-22 20:15,closed,74.2,referred,SUP-04,1,
+DM-00088,2025-01-24 12:00,South,Coast,Online,Traffic,normal,2,15,4,2025-01-24 12:46,2025-01-24 16:35,closed,37.2,resolved,,0,
+DM-00089,2025-01-24 15:29,South,Coast,Walk-in,Report,normal,2,7,2,2025-01-24 23:04,2025-01-25 05:05,closed,30.7,resolved,,0,
+DM-00090,2025-01-24 17:30,North,Metro,Walk-in,Report,normal,2,10,6,2025-01-24 18:25,2025-01-25 02:04,closed,16.2,resolved,,0,3
+DM-00091,2025-01-25 11:13,Harbor,Coast,Online,Lost Item,normal,2,18,3,2025-01-25 13:35,,open,,,,,
+DM-00092,2025-01-25 11:36,Central,Metro,Online,Document,low,0,19,3,2025-01-25 12:58,2025-01-25 15:50,closed,19.7,resolved,,0,3
+DM-00093,2025-01-25 12:57,North,Metro,Phone,Traffic,normal,2,12,5,2025-01-25 15:00,2025-01-25 21:58,closed,14.9,resolved,,0,
+DM-00094,2025-01-25 13:29,North,Metro,Online,Traffic,low,1,13,2,2025-01-25 21:51,2025-01-26 00:55,closed,13.3,resolved,,0,5
+DM-00095,2025-01-25 14:28,West,Inland,Walk-in,Lost Item,normal,3,13,2,2025-01-25 16:23,2025-01-26 00:52,closed,27.9,resolved,SUP-01,1,
+DM-00096,2025-01-25 15:15,Harbor,Coast,Phone,Traffic,low,1,7,4,2025-01-25 16:01,2025-01-25 23:11,closed,23.1,resolved,,0,
+DM-00097,2025-01-26 08:45,North,Metro,Phone,Traffic,normal,0,11,3,2025-01-26 15:53,2025-01-26 21:45,closed,11.6,resolved,,0,5
+DM-00098,2025-01-26 10:28,Central,Metro,Phone,Document,normal,2,9,6,2025-01-26 12:36,2025-01-26 21:50,closed,13.3,resolved,,0,4
+DM-00099,2025-01-26 11:35,South,Coast,Phone,Report,low,2,14,5,2025-01-26 14:54,2025-01-26 21:01,closed,21.8,rejected,,0,
+DM-00100,2025-01-26 14:18,West,Inland,Phone,Report,normal,2,11,3,2025-01-26 17:09,2025-01-26 19:59,closed,27.9,resolved,,0,
+DM-00101,2025-01-27 08:39,Central,Metro,Online,Traffic,low,0,4,5,2025-01-27 13:34,2025-01-27 19:45,closed,8.3,resolved,,0,
+DM-00102,2025-01-27 10:06,Harbor,Coast,Walk-in,Report,low,3,7,3,2025-01-27 13:09,2025-01-27 16:56,closed,73.7,referred,SUP-01,1,
+DM-00103,2025-01-27 13:28,South,Coast,Phone,Lost Item,normal,0,12,4,2025-01-27 19:35,2025-01-28 03:32,closed,44.1,resolved,,0,
+DM-00104,2025-01-27 13:42,South,Coast,Online,Lost Item,normal,1,8,4,2025-01-27 14:19,2025-01-27 17:15,closed,39.6,resolved,,0,2
+DM-00105,2025-01-28 08:16,Central,Metro,Phone,Lost Item,normal,0,3,5,2025-01-28 10:26,2025-01-28 17:54,closed,16.6,resolved,,0,
+DM-00106,2025-01-28 14:45,West,Inland,Walk-in,Report,high,2,10,5,2025-01-28 17:49,2025-01-28 20:14,closed,40.8,resolved,,0,
+DM-00107,2025-01-28 15:33,Central,Metro,Online,Document,normal,0,12,3,2025-01-28 19:11,2025-01-28 20:31,closed,8.1,resolved,,0,5
+DM-00108,2025-01-29 09:15,Central,Metro,Walk-in,Report,high,2,17,5,2025-01-29 10:06,2025-01-29 18:30,closed,23.9,resolved,,0,
+DM-00109,2025-01-29 10:26,Central,Metro,Phone,Traffic,normal,0,10,3,2025-01-29 17:12,2025-01-29 21:12,closed,45.2,resolved,,0,
+DM-00110,2025-01-29 10:40,South,Coast,Online,Lost Item,high,0,12,4,2025-01-29 11:29,2025-01-29 17:51,closed,6.1,resolved,,0,
+DM-00111,2025-01-29 11:58,West,Inland,Phone,Lost Item,high,2,11,4,2025-01-29 13:35,2025-01-29 20:30,closed,40.8,referred,SUP-01,1,
+DM-00112,2025-01-29 16:26,West,Inland,Online,Report,normal,2,8,3,2025-01-29 18:45,2025-01-30 01:00,closed,20.1,resolved,,0,2
+DM-00113,2025-01-29 16:42,Central,Metro,Phone,Document,low,0,14,6,2025-01-29 17:59,2025-01-30 00:59,closed,7.9,rejected,,0,5
+DM-00114,2025-01-29 22:40,Harbor,Coast,Phone,Lost Item,low,0,5,3,2025-01-30 08:25,2025-01-30 15:31,closed,10.8,rejected,,0,
+DM-00115,2025-01-30 09:34,Harbor,Coast,Phone,Report,low,3,10,6,2025-01-30 10:02,2025-01-30 15:41,closed,60.2,resolved,,0,4
+DM-00116,2025-01-30 09:53,South,Coast,Walk-in,Document,low,1,5,6,2025-01-30 10:39,2025-01-30 13:47,closed,10.1,resolved,,0,
+DM-00117,2025-01-30 13:27,South,Coast,Phone,Report,high,0,13,5,2025-01-30 16:12,2025-01-30 21:59,closed,37.9,referred,SUP-01,1,
+DM-00118,2025-01-31 10:35,West,Inland,Online,Lost Item,normal,0,10,4,2025-01-31 13:35,2025-01-31 15:37,closed,2.9,resolved,,0,5
+DM-00119,2025-01-31 16:04,West,Inland,Online,Traffic,normal,2,7,6,2025-01-31 17:12,2025-01-31 19:00,closed,11.7,referred,SUP-02,1,
+DM-00120,2025-01-31 17:23,Harbor,Coast,Online,Traffic,high,2,14,2,2025-02-01 04:13,2025-02-01 14:36,closed,32.8,referred,SUP-04,1,
+DM-00121,2025-01-31 18:02,East,Metro,Walk-in,Report,normal,1,8,3,2025-01-31 19:47,2025-02-01 00:01,closed,34.4,resolved,,0,
+DM-00122,2025-01-31 19:07,North,Metro,Online,Report,normal,1,8,4,2025-01-31 21:52,2025-02-01 04:53,closed,27.4,rejected,,0,
+DM-00123,2025-02-01 06:21,West,Inland,Online,Report,normal,1,6,6,2025-02-01 08:49,2025-02-01 12:08,closed,46.1,resolved,,0,4
+DM-00124,2025-02-01 09:10,Central,Metro,Online,Report,high,0,9,3,2025-02-01 14:04,2025-02-01 20:30,closed,88.3,resolved,,0,
+DM-00125,2025-02-01 09:16,East,Metro,Online,Lost Item,normal,0,6,5,2025-02-01 09:47,2025-02-01 19:06,closed,8.6,resolved,,0,4
+DM-00126,2025-02-01 09:18,North,Metro,Phone,Traffic,normal,1,11,6,2025-02-01 09:48,2025-02-01 18:55,closed,23.1,resolved,,0,
+DM-00127,2025-02-01 10:00,South,Coast,Phone,Report,normal,1,20,5,2025-02-01 16:13,2025-02-02 01:41,closed,64.0,resolved,,0,
+DM-00128,2025-02-01 12:13,Central,Metro,Online,Report,low,5,11,3,2025-02-01 15:47,2025-02-01 20:51,closed,25.5,referred,,0,4
+DM-00129,2025-02-01 15:41,East,Metro,Phone,Traffic,normal,1,8,4,2025-02-01 17:58,2025-02-01 20:51,closed,41.5,referred,SUP-04,1,
+DM-00130,2025-02-02 10:03,Central,Metro,Phone,Report,normal,2,18,3,2025-02-02 15:23,2025-02-02 16:51,closed,28.7,resolved,,0,
+DM-00131,2025-02-02 10:30,East,Metro,Online,Traffic,low,0,19,5,2025-02-02 16:01,2025-02-03 01:38,closed,26.9,resolved,,0,
+DM-00132,2025-02-02 14:06,East,Metro,Phone,Traffic,normal,1,9,5,2025-02-02 16:16,2025-02-02 23:35,closed,29.3,resolved,,0,3
+DM-00133,2025-02-03 09:22,East,Metro,Phone,Traffic,low,1,10,3,2025-02-03 10:50,2025-02-03 17:39,closed,14.3,resolved,,0,
+DM-00134,2025-02-03 12:06,East,Metro,Phone,Traffic,normal,0,12,6,2025-02-03 14:04,2025-02-03 19:44,closed,11.4,resolved,,0,
+DM-00135,2025-02-03 12:08,North,Metro,Phone,Traffic,low,0,13,6,2025-02-03 14:09,2025-02-03 22:24,closed,24.0,rejected,,0,3
+DM-00136,2025-02-03 16:45,North,Metro,Online,Document,normal,2,10,6,2025-02-03 18:05,2025-02-03 20:02,closed,6.5,resolved,,0,5
+DM-00137,2025-02-03 18:22,North,Metro,Walk-in,Lost Item,high,1,18,6,2025-02-03 22:03,2025-02-04 00:43,closed,16.5,rejected,,0,
+DM-00138,2025-02-04 09:38,Harbor,Coast,Walk-in,Lost Item,low,1,5,2,2025-02-04 22:01,2025-02-05 07:26,closed,7.3,rejected,,0,
+DM-00139,2025-02-04 13:04,East,Metro,Walk-in,Lost Item,low,3,11,2,2025-02-04 22:47,2025-02-05 02:03,closed,48.2,resolved,SUP-03,1,1
+DM-00140,2025-02-04 16:33,North,Metro,Walk-in,Report,low,1,12,2,2025-02-04 22:46,2025-02-05 05:08,closed,31.5,rejected,,0,3
+DM-00141,2025-02-05 10:18,East,Metro,Walk-in,Traffic,normal,0,17,6,2025-02-05 10:50,2025-02-05 18:58,closed,70.9,referred,SUP-02,1,3
+DM-00142,2025-02-05 13:29,South,Coast,Walk-in,Traffic,high,1,11,2,2025-02-05 14:57,2025-02-05 17:01,closed,37.0,referred,,0,
+DM-00143,2025-02-05 16:37,Central,Metro,Phone,Traffic,normal,1,11,5,2025-02-05 20:29,2025-02-05 22:32,closed,41.8,referred,SUP-02,1,3
+DM-00144,2025-02-06 11:14,East,Metro,Online,Report,normal,0,7,3,2025-02-06 14:06,2025-02-06 23:12,closed,41.6,resolved,,0,4
+DM-00145,2025-02-07 08:05,Central,Metro,Walk-in,Traffic,normal,0,8,2,2025-02-07 09:49,2025-02-07 19:53,closed,15.9,resolved,,0,
+DM-00146,2025-02-07 11:54,South,Coast,Online,Traffic,low,0,8,5,2025-02-07 12:49,2025-02-07 19:56,closed,36.8,resolved,,0,5
+DM-00147,2025-02-07 12:23,South,Coast,Online,Lost Item,normal,3,18,6,2025-02-07 15:21,2025-02-07 22:22,closed,6.8,resolved,,0,
+DM-00148,2025-02-07 13:25,South,Coast,Phone,Report,low,1,15,3,2025-02-07 17:19,2025-02-07 20:39,closed,52.1,resolved,,0,
+DM-00149,2025-02-07 15:38,Harbor,Coast,Online,Report,normal,3,4,4,2025-02-07 20:07,2025-02-08 04:31,closed,30.4,resolved,,0,4
+DM-00150,2025-02-07 16:07,East,Metro,Phone,Report,normal,1,8,2,2025-02-07 20:41,2025-02-08 04:39,closed,23.0,resolved,,0,
+DM-00151,2025-02-07 16:42,East,Metro,Phone,Report,normal,2,7,3,2025-02-07 19:23,2025-02-08 01:37,closed,24.2,resolved,,0,
+DM-00152,2025-02-08 10:23,West,Inland,Online,Document,high,2,10,2,2025-02-08 12:13,2025-02-08 20:10,closed,5.3,resolved,,0,4
+DM-00153,2025-02-08 12:40,East,Metro,Online,Traffic,normal,1,12,2,2025-02-08 16:14,2025-02-08 17:53,closed,32.4,resolved,,0,4
+DM-00154,2025-02-08 12:44,South,Coast,Phone,Lost Item,normal,0,11,6,2025-02-08 14:40,2025-02-08 21:17,closed,25.9,referred,SUP-02,1,
+DM-00155,2025-02-08 21:12,East,Metro,Phone,Report,normal,3,7,2,2025-02-09 03:08,2025-02-09 13:09,closed,51.1,referred,SUP-03,1,5
+DM-00156,2025-02-09 08:00,East,Metro,Phone,Report,high,2,10,5,2025-02-09 08:42,2025-02-09 16:15,closed,66.2,referred,SUP-03,1,
+DM-00157,2025-02-09 14:25,West,Inland,Online,Traffic,high,1,11,5,2025-02-09 21:00,2025-02-10 07:01,closed,14.8,resolved,,0,
+DM-00158,2025-02-09 14:49,Harbor,Coast,Walk-in,Report,low,4,7,6,2025-02-09 15:29,2025-02-09 18:41,closed,50.6,rejected,,0,
+DM-00159,2025-02-10 13:50,Central,Metro,Online,Report,normal,1,14,5,2025-02-10 15:13,2025-02-10 21:34,closed,42.6,resolved,,0,4
+DM-00160,2025-02-10 14:26,Central,Metro,Online,Report,normal,3,13,2,2025-02-10 16:10,2025-02-10 19:58,closed,40.8,rejected,,0,4
+DM-00161,2025-02-10 19:51,North,Metro,Online,Report,normal,1,18,2,2025-02-11 13:02,2025-02-11 17:49,closed,93.4,resolved,,0,4
+DM-00162,2025-02-11 11:13,East,Metro,Online,Report,normal,1,13,2,2025-02-11 16:35,2025-02-12 00:05,closed,31.5,resolved,,0,
+DM-00163,2025-02-11 12:41,East,Metro,Phone,Traffic,normal,3,14,6,2025-02-11 17:11,2025-02-12 01:44,closed,19.9,resolved,,0,
+DM-00164,2025-02-11 13:22,South,Coast,Online,Lost Item,high,1,8,6,2025-02-11 15:18,2025-02-11 17:44,closed,50.1,referred,SUP-01,1,2
+DM-00165,2025-02-11 13:48,East,Metro,Walk-in,Document,normal,2,15,4,2025-02-11 21:34,2025-02-12 06:24,closed,8.5,resolved,,0,
+DM-00166,2025-02-11 14:57,North,Metro,Phone,Lost Item,low,0,23,5,2025-02-11 18:10,2025-02-11 23:54,closed,11.5,resolved,,0,5
+DM-00167,2025-02-12 06:37,West,Inland,Walk-in,Report,low,3,5,6,2025-02-12 07:24,2025-02-12 12:09,closed,84.3,resolved,,0,
+DM-00168,2025-02-12 06:40,East,Metro,Walk-in,Traffic,low,1,13,5,2025-02-12 07:53,2025-02-12 12:50,closed,47.8,resolved,,0,5
+DM-00169,2025-02-12 11:28,East,Metro,Online,Report,normal,5,13,5,2025-02-12 12:56,2025-02-12 16:57,closed,54.8,resolved,,0,
+DM-00170,2025-02-12 12:22,South,Coast,Phone,Document,normal,0,11,6,2025-02-12 17:00,,open,,,,,
+DM-00171,2025-02-12 12:39,North,Metro,Walk-in,Document,normal,0,16,6,2025-02-12 16:13,2025-02-13 02:01,closed,2.3,resolved,,0,
+DM-00172,2025-02-12 14:38,West,Inland,Online,Traffic,normal,0,10,3,2025-02-12 18:55,2025-02-12 22:43,closed,11.6,resolved,,0,4
+DM-00173,2025-02-12 14:49,East,Metro,Online,Document,low,0,9,3,2025-02-12 15:33,2025-02-12 19:00,closed,25.2,rejected,,0,3
+DM-00174,2025-02-13 09:45,Central,Metro,Phone,Traffic,low,0,7,5,2025-02-13 11:49,2025-02-13 16:22,closed,22.9,resolved,,0,4
+DM-00175,2025-02-13 10:26,West,Inland,Online,Report,normal,2,4,5,2025-02-13 14:22,2025-02-13 20:45,closed,53.0,resolved,,0,5
+DM-00176,2025-02-13 11:43,Central,Metro,Phone,Traffic,normal,2,9,2,2025-02-14 00:15,2025-02-14 04:52,closed,24.2,resolved,,0,4
+DM-00177,2025-02-13 12:46,West,Inland,Online,Report,normal,1,14,3,2025-02-13 15:17,2025-02-13 21:12,closed,16.4,resolved,,0,5
+DM-00178,2025-02-13 15:33,Harbor,Coast,Phone,Traffic,normal,0,5,4,2025-02-13 20:11,2025-02-14 00:30,closed,53.1,referred,SUP-03,1,
+DM-00179,2025-02-14 09:08,South,Coast,Phone,Lost Item,high,1,8,3,2025-02-14 19:34,2025-02-14 22:03,closed,25.2,resolved,SUP-04,1,4
+DM-00180,2025-02-14 09:31,South,Coast,Phone,Report,normal,0,8,3,2025-02-14 12:33,2025-02-14 16:37,closed,39.1,resolved,,0,
+DM-00181,2025-02-14 09:48,Harbor,Coast,Online,Traffic,normal,1,6,3,2025-02-14 13:22,2025-02-14 14:55,closed,27.9,resolved,,0,5
+DM-00182,2025-02-14 11:16,Central,Metro,Online,Report,normal,3,12,5,2025-02-14 12:11,2025-02-14 21:42,closed,34.6,referred,SUP-04,1,3
+DM-00183,2025-02-14 12:35,South,Coast,Online,Report,low,1,9,2,2025-02-14 15:56,2025-02-14 20:01,closed,55.3,resolved,,0,
+DM-00184,2025-02-14 15:21,Harbor,Coast,Online,Traffic,normal,0,9,3,2025-02-14 17:04,2025-02-15 00:58,closed,8.0,resolved,,0,4
+DM-00185,2025-02-14 15:37,North,Metro,Phone,Lost Item,normal,0,12,3,2025-02-14 18:39,2025-02-14 23:59,closed,34.1,rejected,,0,4
+DM-00186,2025-02-15 11:43,North,Metro,Online,Document,low,0,8,3,2025-02-15 14:24,2025-02-15 18:20,closed,8.8,resolved,,0,5
+DM-00187,2025-02-15 17:20,North,Metro,Online,Traffic,normal,2,11,4,2025-02-15 23:07,2025-02-16 06:57,closed,19.8,referred,SUP-04,1,
+DM-00188,2025-02-16 08:54,North,Metro,Online,Document,normal,3,13,4,2025-02-16 12:36,2025-02-16 18:52,closed,49.7,referred,SUP-02,1,2
+DM-00189,2025-02-16 10:16,North,Metro,Walk-in,Report,low,1,13,4,2025-02-16 13:08,2025-02-16 20:46,closed,69.5,resolved,,0,3
+DM-00190,2025-02-16 11:00,North,Metro,Online,Traffic,low,1,22,6,2025-02-16 16:52,2025-02-16 22:16,closed,13.8,resolved,,0,3
+DM-00191,2025-02-16 11:03,Central,Metro,Phone,Traffic,normal,0,18,5,2025-02-17 00:37,2025-02-17 09:59,closed,30.4,resolved,,0,
+DM-00192,2025-02-16 11:04,South,Coast,Online,Document,normal,0,15,2,2025-02-16 22:57,2025-02-17 02:00,closed,15.7,resolved,,0,3
+DM-00193,2025-02-16 13:36,Central,Metro,Walk-in,Traffic,normal,0,14,6,2025-02-16 14:43,2025-02-16 20:38,closed,14.1,resolved,,0,
+DM-00194,2025-02-16 13:52,Central,Metro,Walk-in,Traffic,normal,1,17,2,2025-02-16 16:00,2025-02-17 00:45,closed,26.9,rejected,,0,4
+DM-00195,2025-02-16 15:26,Central,Metro,Walk-in,Traffic,normal,0,7,6,2025-02-16 17:09,2025-02-17 00:09,closed,27.1,resolved,,0,5
+DM-00196,2025-02-16 19:21,Central,Metro,Online,Document,normal,0,10,5,2025-02-16 19:32,2025-02-17 04:19,closed,13.6,resolved,,0,
+DM-00197,2025-02-17 15:53,North,Metro,Online,Document,low,2,11,3,2025-02-17 20:35,2025-02-18 00:57,closed,11.9,resolved,,0,3
+DM-00198,2025-02-17 18:07,South,Coast,Walk-in,Lost Item,normal,0,6,6,2025-02-17 19:36,2025-02-18 06:22,closed,46.6,referred,,0,
+DM-00199,2025-02-18 08:23,North,Metro,Online,Document,normal,0,14,3,2025-02-18 13:46,2025-02-18 19:52,closed,15.5,referred,,0,4
+DM-00200,2025-02-18 08:47,East,Metro,Phone,Report,normal,3,10,3,2025-02-18 11:54,2025-02-18 16:23,closed,44.0,resolved,,0,
+DM-00201,2025-02-18 09:12,East,Metro,Phone,Traffic,normal,1,11,3,2025-02-18 12:31,2025-02-18 18:07,closed,37.6,resolved,,0,4
+DM-00202,2025-02-18 11:05,West,Inland,Phone,Document,normal,2,10,3,2025-02-18 15:05,2025-02-18 20:06,closed,9.2,resolved,,0,
+DM-00203,2025-02-18 13:09,West,Inland,Online,Report,normal,1,12,6,2025-02-18 14:16,2025-02-18 19:52,closed,68.3,resolved,,0,
+DM-00204,2025-02-18 17:06,Harbor,Coast,Online,Report,low,1,7,5,2025-02-18 17:58,2025-02-19 01:55,closed,63.7,resolved,,0,3
+DM-00205,2025-02-19 07:16,East,Metro,Online,Report,normal,1,3,3,2025-02-19 09:56,2025-02-19 20:27,closed,66.2,resolved,,0,
+DM-00206,2025-02-19 10:38,North,Metro,Phone,Document,normal,0,17,2,2025-02-20 03:41,2025-02-20 11:30,closed,14.7,resolved,,0,4
+DM-00207,2025-02-19 12:31,North,Metro,Online,Report,low,1,14,6,2025-02-19 14:33,2025-02-19 16:53,closed,23.6,resolved,,0,4
+DM-00208,2025-02-19 13:15,West,Inland,Walk-in,Document,low,1,4,2,2025-02-19 16:13,,open,,,,,
+DM-00209,2025-02-19 13:38,South,Coast,Walk-in,Document,normal,1,15,3,2025-02-19 14:36,2025-02-19 17:09,closed,65.9,resolved,SUP-02,1,4
+DM-00210,2025-02-19 19:19,East,Metro,Online,Lost Item,normal,2,4,3,2025-02-19 20:42,2025-02-19 22:24,closed,23.5,resolved,,0,4
+DM-00211,2025-02-20 09:28,South,Coast,Phone,Lost Item,normal,0,9,2,2025-02-20 13:54,2025-02-20 16:15,closed,10.5,resolved,,0,
+DM-00212,2025-02-20 13:44,South,Coast,Online,Document,normal,0,6,4,2025-02-20 15:05,2025-02-21 00:41,closed,23.8,resolved,,0,3
+DM-00213,2025-02-20 17:11,East,Metro,Phone,Document,low,0,10,3,2025-02-20 20:52,2025-02-20 23:11,closed,11.0,resolved,,0,5
+DM-00214,2025-02-21 08:33,North,Metro,Walk-in,Traffic,normal,0,15,3,2025-02-21 16:59,2025-02-22 03:00,closed,7.7,resolved,,0,
+DM-00215,2025-02-21 13:01,Central,Metro,Online,Report,high,1,12,6,2025-02-21 15:25,2025-02-22 02:43,closed,109.1,resolved,SUP-04,1,
+DM-00216,2025-02-21 13:02,North,Metro,Walk-in,Traffic,normal,1,21,6,2025-02-21 15:34,2025-02-21 18:00,closed,18.6,resolved,,0,
+DM-00217,2025-02-21 13:53,North,Metro,Online,Report,normal,4,17,5,2025-02-21 18:56,2025-02-22 00:45,closed,92.1,referred,SUP-04,1,4
+DM-00218,2025-02-21 15:21,Central,Metro,Walk-in,Traffic,normal,1,6,2,2025-02-22 10:07,2025-02-22 19:23,closed,43.5,referred,SUP-04,1,3
+DM-00219,2025-02-21 16:04,North,Metro,Phone,Report,normal,2,15,6,2025-02-21 17:13,,open,,,,,
+DM-00220,2025-02-22 06:22,South,Coast,Walk-in,Report,low,2,6,2,2025-02-22 17:30,2025-02-22 23:19,closed,49.6,resolved,,0,4
+DM-00221,2025-02-22 08:15,West,Inland,Online,Report,low,3,3,3,2025-02-22 12:02,2025-02-22 20:07,closed,31.5,resolved,,0,4
+DM-00222,2025-02-22 16:25,East,Metro,Online,Traffic,normal,2,11,2,2025-02-23 00:38,2025-02-23 02:28,closed,23.9,resolved,SUP-01,1,2
+DM-00223,2025-02-23 12:09,East,Metro,Online,Traffic,normal,3,12,4,2025-02-23 13:41,2025-02-23 19:52,closed,28.7,resolved,,0,
+DM-00224,2025-02-23 13:01,East,Metro,Phone,Report,normal,3,19,2,2025-02-23 16:55,2025-02-24 00:44,closed,41.4,resolved,,0,
+DM-00225,2025-02-23 13:05,North,Metro,Phone,Report,normal,2,14,2,2025-02-23 17:31,2025-02-24 00:53,closed,44.7,resolved,,0,
+DM-00226,2025-02-23 14:20,West,Inland,Online,Traffic,normal,0,11,6,2025-02-23 17:15,2025-02-23 19:19,closed,22.9,resolved,,0,
+DM-00227,2025-02-24 07:38,North,Metro,Walk-in,Report,normal,0,12,2,2025-02-24 20:28,2025-02-25 00:49,closed,14.2,resolved,,0,
+DM-00228,2025-02-24 10:34,Harbor,Coast,Online,Lost Item,normal,3,11,6,2025-02-24 17:11,2025-02-25 03:22,closed,18.6,resolved,,0,4
+DM-00229,2025-02-24 13:54,Central,Metro,Walk-in,Report,low,3,16,6,2025-02-24 15:08,2025-02-24 21:26,closed,109.2,referred,SUP-04,1,
+DM-00230,2025-02-25 11:01,South,Coast,Online,Document,normal,1,13,3,2025-02-25 14:54,2025-02-25 16:35,closed,18.1,resolved,,0,3
+DM-00231,2025-02-25 12:17,East,Metro,Online,Traffic,low,1,14,5,2025-02-25 14:53,,open,,,,,
+DM-00232,2025-02-25 12:44,North,Metro,Walk-in,Lost Item,normal,0,7,6,2025-02-25 13:04,2025-02-25 15:59,closed,25.2,resolved,,0,
+DM-00233,2025-02-26 07:30,North,Metro,Phone,Traffic,normal,0,9,5,2025-02-26 08:34,2025-02-26 10:55,closed,27.2,resolved,,0,3
+DM-00234,2025-02-26 12:15,South,Coast,Online,Report,normal,2,11,4,2025-02-26 14:10,2025-02-26 17:27,closed,95.6,rejected,,0,3
+DM-00235,2025-02-26 12:34,North,Metro,Phone,Traffic,high,2,12,6,2025-02-26 19:51,2025-02-27 07:09,closed,118.3,referred,SUP-01,1,
+DM-00236,2025-02-26 16:01,East,Metro,Online,Report,normal,3,8,4,2025-02-26 16:59,2025-02-27 01:11,closed,62.8,resolved,,0,4
+DM-00237,2025-02-27 10:55,North,Metro,Phone,Traffic,normal,0,20,6,2025-02-27 13:12,2025-02-27 21:05,closed,24.1,rejected,,0,
+DM-00238,2025-02-27 12:44,East,Metro,Online,Traffic,normal,0,13,6,2025-02-27 16:11,2025-02-27 18:33,closed,8.1,rejected,,0,
+DM-00239,2025-02-27 22:16,North,Metro,Phone,Document,normal,3,10,2,2025-02-28 02:58,2025-02-28 10:00,closed,18.0,resolved,SUP-02,1,
+DM-00240,2025-02-27 22:52,Harbor,Coast,Online,Report,low,0,11,5,2025-02-27 23:56,2025-02-28 09:53,closed,48.7,resolved,,0,4
+DM-00241,2025-02-28 12:13,South,Coast,Walk-in,Report,low,4,19,6,2025-02-28 18:21,2025-02-28 23:09,closed,55.7,resolved,,0,
+DM-00242,2025-02-28 12:48,East,Metro,Online,Traffic,high,2,11,5,2025-02-28 15:47,2025-02-28 18:08,closed,31.7,rejected,,0,3
+DM-00243,2025-03-01 12:32,Harbor,Coast,Phone,Document,normal,1,9,2,2025-03-01 13:28,2025-03-01 14:45,closed,25.4,referred,SUP-03,1,
+DM-00244,2025-03-01 14:09,Central,Metro,Walk-in,Report,normal,1,6,3,2025-03-01 14:43,2025-03-01 22:12,closed,58.2,resolved,,0,4
+DM-00245,2025-03-02 10:19,North,Metro,Online,Traffic,low,1,8,2,2025-03-02 15:44,2025-03-02 17:46,closed,18.3,resolved,,0,
+DM-00246,2025-03-02 11:29,East,Metro,Walk-in,Traffic,normal,1,8,4,2025-03-02 14:20,2025-03-02 16:34,closed,41.5,referred,SUP-02,1,4
+DM-00247,2025-03-02 14:03,East,Metro,Phone,Report,normal,3,15,5,2025-03-02 19:26,2025-03-03 02:32,closed,50.8,rejected,,0,
+DM-00248,2025-03-02 16:48,South,Coast,Walk-in,Report,normal,1,14,4,2025-03-02 17:59,2025-03-03 02:58,closed,21.1,resolved,,0,4
+DM-00249,2025-03-02 19:07,South,Coast,Phone,Traffic,low,1,12,4,2025-03-02 21:41,2025-03-03 07:12,closed,19.3,resolved,,0,
+DM-00250,2025-03-03 06:52,East,Metro,Walk-in,Document,normal,1,8,5,2025-03-03 08:02,2025-03-03 12:06,closed,8.8,rejected,,0,
+DM-00251,2025-03-03 12:10,Central,Metro,Online,Report,normal,1,16,6,2025-03-03 13:50,2025-03-03 15:28,closed,37.6,resolved,,0,3
+DM-00252,2025-03-03 14:48,Central,Metro,Online,Document,high,0,19,3,2025-03-03 22:01,2025-03-04 06:03,closed,35.3,resolved,,0,5
+DM-00253,2025-03-04 06:15,East,Metro,Phone,Document,low,1,13,3,2025-03-04 21:17,2025-03-04 23:18,closed,7.9,referred,,0,4
+DM-00254,2025-03-04 08:23,Central,Metro,Online,Lost Item,low,0,11,4,2025-03-04 12:27,2025-03-04 19:23,closed,7.6,resolved,,0,5
+DM-00255,2025-03-05 10:10,Central,Metro,Walk-in,Report,high,3,14,6,2025-03-05 13:23,2025-03-05 18:05,closed,57.0,resolved,SUP-01,1,
+DM-00256,2025-03-05 10:10,East,Metro,Phone,Document,normal,3,18,6,2025-03-05 11:06,2025-03-05 13:37,closed,20.4,resolved,,0,5
+DM-00257,2025-03-05 14:19,Central,Metro,Online,Document,normal,2,18,4,2025-03-05 21:24,2025-03-05 22:38,closed,7.6,rejected,,0,
+DM-00258,2025-03-05 14:33,North,Metro,Online,Report,low,2,12,5,2025-03-05 15:02,2025-03-05 23:45,closed,37.7,referred,SUP-03,1,3
+DM-00259,2025-03-05 15:27,North,Metro,Online,Traffic,normal,0,9,2,2025-03-05 20:17,2025-03-05 23:04,closed,13.9,resolved,,0,4
+DM-00260,2025-03-05 15:37,North,Metro,Online,Report,low,1,11,2,2025-03-05 19:40,2025-03-06 03:19,closed,36.5,resolved,,0,4
+DM-00261,2025-03-06 08:37,East,Metro,Walk-in,Document,high,1,8,5,2025-03-06 10:05,2025-03-06 16:32,closed,34.4,resolved,SUP-01,1,
+DM-00262,2025-03-06 12:38,South,Coast,Phone,Traffic,normal,4,9,3,2025-03-06 14:09,,open,,,,,
+DM-00263,2025-03-06 15:40,North,Metro,Walk-in,Traffic,normal,1,10,6,2025-03-06 16:25,2025-03-06 17:24,closed,6.1,rejected,,0,
+DM-00264,2025-03-07 09:10,South,Coast,Online,Report,low,0,11,2,2025-03-07 13:06,2025-03-07 18:38,closed,1.9,resolved,,0,
+DM-00265,2025-03-07 10:21,North,Metro,Phone,Traffic,normal,0,10,2,2025-03-07 11:47,2025-03-07 17:51,closed,22.4,resolved,,0,4
+DM-00266,2025-03-07 12:47,East,Metro,Phone,Report,high,2,11,5,2025-03-07 14:21,,open,,,,,
+DM-00267,2025-03-07 14:23,Central,Metro,Online,Document,normal,1,13,4,2025-03-07 19:45,2025-03-07 22:24,closed,8.8,resolved,,0,
+DM-00268,2025-03-07 14:51,East,Metro,Online,Lost Item,high,0,19,6,2025-03-07 17:29,2025-03-07 20:32,closed,15.3,resolved,,0,4
+DM-00269,2025-03-09 11:03,Central,Metro,Online,Report,normal,3,12,6,2025-03-09 11:58,2025-03-09 15:08,closed,107.3,resolved,,0,4
+DM-00270,2025-03-09 15:43,South,Coast,Phone,Document,high,3,8,2,2025-03-09 20:46,2025-03-10 05:01,closed,29.6,resolved,,0,
+DM-00271,2025-03-10 11:32,Harbor,Coast,Online,Traffic,normal,0,10,5,2025-03-10 15:40,2025-03-10 20:49,closed,14.2,resolved,,0,
+DM-00272,2025-03-10 19:33,South,Coast,Online,Traffic,high,1,9,2,2025-03-10 20:26,2025-03-10 22:50,closed,24.5,rejected,,0,
+DM-00273,2025-03-11 07:59,North,Metro,Phone,Document,normal,0,11,2,2025-03-11 11:53,2025-03-11 21:30,closed,14.9,resolved,,0,
+DM-00274,2025-03-11 10:14,East,Metro,Phone,Report,normal,1,10,5,2025-03-11 14:31,2025-03-11 21:41,closed,8.3,resolved,,0,
+DM-00275,2025-03-11 13:05,Central,Metro,Phone,Traffic,normal,0,20,6,2025-03-11 15:32,2025-03-11 22:09,closed,12.1,referred,SUP-01,1,
+DM-00276,2025-03-11 14:19,Central,Metro,Online,Lost Item,high,1,14,5,2025-03-11 14:59,2025-03-11 18:03,closed,20.4,resolved,,0,4
+DM-00277,2025-03-11 15:15,Harbor,Coast,Online,Lost Item,low,1,7,3,2025-03-11 16:40,2025-03-12 03:03,closed,38.5,referred,SUP-01,1,
+DM-00278,2025-03-11 15:35,North,Metro,Phone,Report,normal,4,13,6,2025-03-11 17:31,2025-03-12 00:50,closed,53.7,referred,SUP-02,1,
+DM-00279,2025-03-12 07:31,North,Metro,Online,Lost Item,low,0,9,2,2025-03-12 10:39,2025-03-12 18:36,closed,57.8,resolved,,0,5
+DM-00280,2025-03-12 08:30,Harbor,Coast,Phone,Report,normal,0,4,2,2025-03-12 13:18,,open,,,,,
+DM-00281,2025-03-12 11:31,East,Metro,Online,Lost Item,normal,0,9,4,2025-03-12 13:54,2025-03-12 22:14,closed,9.0,resolved,,0,
+DM-00282,2025-03-12 11:34,Central,Metro,Walk-in,Report,normal,6,8,2,2025-03-12 21:01,2025-03-13 05:43,closed,59.4,resolved,,0,
+DM-00283,2025-03-12 12:56,East,Metro,Walk-in,Document,normal,0,13,4,2025-03-12 17:00,2025-03-12 22:36,closed,21.4,resolved,,0,5
+DM-00284,2025-03-12 13:41,Central,Metro,Phone,Document,normal,0,14,4,2025-03-12 20:10,2025-03-13 01:37,closed,45.5,referred,SUP-03,1,3
+DM-00285,2025-03-13 06:17,West,Inland,Walk-in,Traffic,low,1,7,4,2025-03-13 07:00,2025-03-13 11:34,closed,13.9,resolved,,0,
+DM-00286,2025-03-13 08:57,North,Metro,Phone,Report,low,0,18,5,2025-03-13 14:31,2025-03-13 21:47,closed,29.3,resolved,,0,3
+DM-00287,2025-03-13 09:29,North,Metro,Phone,Report,normal,2,14,5,2025-03-13 13:51,2025-03-13 23:10,closed,27.8,resolved,,0,5
+DM-00288,2025-03-13 10:19,Central,Metro,Walk-in,Lost Item,normal,2,15,2,2025-03-14 06:28,2025-03-14 14:51,closed,22.9,resolved,,0,4
+DM-00289,2025-03-13 11:15,West,Inland,Phone,Traffic,low,0,11,5,2025-03-13 12:04,2025-03-13 15:37,closed,37.5,resolved,,0,
+DM-00290,2025-03-13 16:10,Harbor,Coast,Phone,Traffic,high,1,4,6,2025-03-13 17:02,2025-03-14 02:47,closed,43.2,resolved,,0,
+DM-00291,2025-03-14 07:18,West,Inland,Phone,Lost Item,high,0,8,5,2025-03-14 09:13,2025-03-14 13:55,closed,41.5,resolved,,0,
+DM-00292,2025-03-14 11:12,West,Inland,Phone,Report,high,1,11,3,2025-03-14 17:06,2025-03-14 22:56,closed,84.9,referred,SUP-04,1,
+DM-00293,2025-03-14 13:57,East,Metro,Walk-in,Report,normal,4,13,2,2025-03-15 03:50,2025-03-15 07:13,closed,34.6,referred,SUP-04,1,
+DM-00294,2025-03-14 14:18,Central,Metro,Phone,Traffic,low,0,22,4,2025-03-14 16:19,2025-03-14 23:04,closed,27.2,resolved,,0,2
+DM-00295,2025-03-14 15:03,Central,Metro,Phone,Traffic,normal,0,12,2,2025-03-14 15:09,2025-03-15 01:11,closed,18.9,resolved,,0,3
+DM-00296,2025-03-14 16:54,Central,Metro,Online,Document,normal,0,14,3,2025-03-14 18:16,2025-03-14 23:49,closed,28.9,resolved,,0,4
+DM-00297,2025-03-15 08:29,South,Coast,Phone,Report,high,0,9,5,2025-03-15 10:49,2025-03-15 17:25,closed,60.6,referred,SUP-04,1,3
+DM-00298,2025-03-15 11:07,North,Metro,Online,Traffic,low,1,19,6,2025-03-15 13:03,2025-03-15 14:09,closed,14.8,resolved,,0,
+DM-00299,2025-03-15 13:24,West,Inland,Phone,Traffic,high,0,10,3,2025-03-15 15:56,2025-03-15 22:40,closed,30.7,resolved,,0,3
+DM-00300,2025-03-15 14:48,Harbor,Coast,Walk-in,Traffic,normal,1,7,2,2025-03-15 18:43,,open,,,,,
+DM-00301,2025-03-15 15:06,South,Coast,Online,Document,low,1,8,4,2025-03-15 17:50,2025-03-16 01:40,closed,23.7,resolved,,0,4
+DM-00302,2025-03-16 12:11,North,Metro,Online,Report,normal,1,18,5,2025-03-16 16:12,2025-03-16 17:34,closed,42.5,referred,SUP-04,1,
+DM-00303,2025-03-16 15:14,East,Metro,Online,Report,normal,2,5,3,2025-03-16 18:30,2025-03-17 02:55,closed,54.4,resolved,,0,3
+DM-00304,2025-03-16 18:09,Central,Metro,Phone,Report,low,0,11,6,2025-03-16 19:12,2025-03-17 01:14,closed,23.0,resolved,,0,
+DM-00305,2025-03-17 06:47,South,Coast,Phone,Report,low,2,12,5,2025-03-17 09:05,2025-03-17 12:48,closed,51.7,resolved,,0,
+DM-00306,2025-03-17 12:30,Harbor,Coast,Online,Document,normal,2,18,3,2025-03-17 14:35,2025-03-17 18:44,closed,17.2,resolved,,0,3
+DM-00307,2025-03-17 14:24,North,Metro,Walk-in,Report,low,2,19,6,2025-03-17 15:18,2025-03-17 22:58,closed,32.5,resolved,,0,
+DM-00308,2025-03-17 20:34,South,Coast,Online,Traffic,normal,0,8,4,2025-03-17 22:19,,open,,,,,
+DM-00309,2025-03-18 06:18,Central,Metro,Online,Traffic,normal,1,9,3,2025-03-18 08:41,2025-03-18 18:18,closed,16.0,resolved,,0,5
+DM-00310,2025-03-18 07:56,South,Coast,Walk-in,Lost Item,normal,0,9,3,2025-03-18 11:49,2025-03-18 21:59,closed,28.2,resolved,,0,4
+DM-00311,2025-03-19 14:51,North,Metro,Phone,Report,normal,1,17,6,2025-03-19 15:52,2025-03-19 21:17,closed,43.3,referred,SUP-03,1,
+DM-00312,2025-03-20 10:16,Central,Metro,Online,Report,low,4,11,2,2025-03-20 11:04,2025-03-20 17:44,closed,45.7,resolved,,0,4
+DM-00313,2025-03-20 11:10,East,Metro,Phone,Document,normal,0,9,4,2025-03-20 17:30,2025-03-20 19:50,closed,12.9,resolved,,0,3
+DM-00314,2025-03-20 12:15,West,Inland,Phone,Lost Item,low,3,13,4,2025-03-20 13:35,2025-03-20 18:27,closed,19.1,resolved,,0,
+DM-00315,2025-03-20 15:46,South,Coast,Phone,Report,normal,2,10,3,2025-03-20 17:14,2025-03-21 01:37,closed,55.8,resolved,,0,
+DM-00316,2025-03-21 12:26,North,Metro,Phone,Traffic,normal,0,14,3,2025-03-21 15:03,2025-03-21 16:20,closed,8.3,resolved,,0,
+DM-00317,2025-03-21 14:52,Central,Metro,Walk-in,Document,normal,0,17,3,2025-03-21 20:20,2025-03-22 01:37,closed,4.3,referred,SUP-03,1,
+DM-00318,2025-03-22 06:59,Central,Metro,Phone,Traffic,normal,1,16,3,2025-03-22 11:54,2025-03-22 16:08,closed,13.7,resolved,,0,4
+DM-00319,2025-03-22 13:25,West,Inland,Phone,Report,low,2,15,3,2025-03-22 21:41,2025-03-22 23:59,closed,35.2,resolved,,0,
+DM-00320,2025-03-22 13:41,Harbor,Coast,Phone,Traffic,low,1,12,4,2025-03-22 14:22,2025-03-22 19:25,closed,36.0,resolved,SUP-02,1,
+DM-00321,2025-03-22 14:52,North,Metro,Online,Report,normal,3,21,2,2025-03-22 16:42,2025-03-23 00:45,closed,118.0,referred,SUP-02,1,3
+DM-00322,2025-03-22 15:04,North,Metro,Phone,Traffic,normal,0,11,3,2025-03-22 21:41,2025-03-23 02:15,closed,35.5,resolved,,0,5
+DM-00323,2025-03-23 08:08,North,Metro,Online,Traffic,low,2,11,2,2025-03-23 11:15,,open,,,,,
+DM-00324,2025-03-23 13:02,East,Metro,Phone,Lost Item,low,4,10,2,2025-03-23 18:15,,open,,,,,
+DM-00325,2025-03-23 13:04,Central,Metro,Phone,Traffic,normal,2,13,4,2025-03-23 15:17,,open,,,,,
+DM-00326,2025-03-23 13:19,Harbor,Coast,Walk-in,Report,normal,3,15,6,2025-03-23 15:44,2025-03-23 17:30,closed,53.2,resolved,,0,
+DM-00327,2025-03-23 15:31,North,Metro,Online,Report,low,2,12,6,2025-03-23 17:50,2025-03-23 22:33,closed,44.0,referred,SUP-01,1,
+DM-00328,2025-03-23 16:58,North,Metro,Online,Report,normal,3,9,3,2025-03-23 18:02,2025-03-23 20:15,closed,42.5,resolved,,0,5
+DM-00329,2025-03-23 18:17,South,Coast,Walk-in,Traffic,normal,0,8,3,2025-03-24 02:05,,open,,,,,
+DM-00330,2025-03-23 19:47,East,Metro,Walk-in,Traffic,normal,1,9,3,2025-03-23 23:30,2025-03-24 01:20,closed,33.4,resolved,,0,3
+DM-00331,2025-03-24 06:45,North,Metro,Phone,Document,normal,1,10,4,2025-03-24 13:42,2025-03-24 19:35,closed,13.9,resolved,,0,
+DM-00332,2025-03-24 09:20,East,Metro,Phone,Document,normal,1,9,6,2025-03-24 10:52,2025-03-24 18:46,closed,16.9,resolved,,0,
+DM-00333,2025-03-24 14:30,Central,Metro,Walk-in,Document,low,1,18,5,2025-03-24 17:14,2025-03-24 19:17,closed,9.9,resolved,,0,
+DM-00334,2025-03-25 18:27,Harbor,Coast,Online,Report,low,0,7,6,2025-03-25 21:43,2025-03-26 06:20,closed,11.4,resolved,,0,
+DM-00335,2025-03-25 18:53,West,Inland,Online,Traffic,low,1,10,5,2025-03-25 19:22,,open,,,,,
+DM-00336,2025-03-26 11:18,East,Metro,Online,Report,normal,1,17,4,2025-03-26 14:32,,open,,,,,
+DM-00337,2025-03-26 11:36,North,Metro,Online,Document,high,1,15,3,2025-03-26 19:52,2025-03-27 05:08,closed,30.6,referred,SUP-02,1,2
+DM-00338,2025-03-26 12:00,West,Inland,Walk-in,Traffic,high,1,11,3,2025-03-26 15:01,,open,,,,,
+DM-00339,2025-03-26 14:00,Central,Metro,Online,Document,normal,2,16,4,2025-03-26 16:17,2025-03-26 23:01,closed,18.8,resolved,,0,
+DM-00340,2025-03-26 14:30,Harbor,Coast,Phone,Document,high,0,10,4,2025-03-26 15:08,,open,,,,,
+DM-00341,2025-03-26 14:41,Harbor,Coast,Phone,Report,low,3,12,5,2025-03-26 16:11,,open,,,,,
+DM-00342,2025-03-26 20:28,South,Coast,Online,Traffic,low,0,11,4,2025-03-27 02:35,,open,,,,,
+DM-00343,2025-03-27 12:08,Central,Metro,Walk-in,Document,low,1,21,5,2025-03-27 19:46,,open,,,,,
+DM-00344,2025-03-27 12:18,Central,Metro,Phone,Report,normal,1,19,2,2025-03-27 18:00,,open,,,,,
+DM-00345,2025-03-27 13:38,Central,Metro,Online,Document,normal,0,15,6,2025-03-27 15:39,2025-03-27 19:50,closed,19.5,resolved,,0,3
+DM-00346,2025-03-27 13:43,South,Coast,Online,Document,normal,1,9,6,2025-03-27 16:06,,open,,,,,
+DM-00347,2025-03-28 17:14,Harbor,Coast,Online,Lost Item,normal,3,6,6,2025-03-28 17:39,2025-03-29 02:00,closed,24.7,rejected,,0,5
+DM-00348,2025-03-29 11:51,East,Metro,Online,Report,normal,4,10,6,2025-03-29 15:10,2025-03-29 18:13,closed,36.4,resolved,,0,5
+DM-00349,2025-03-29 12:10,Central,Metro,Walk-in,Traffic,low,1,13,3,2025-03-29 16:44,2025-03-30 02:38,closed,20.2,resolved,,0,4
+DM-00350,2025-03-29 12:52,Central,Metro,Online,Report,normal,1,16,6,2025-03-29 13:22,,open,,,,,
+DM-00351,2025-03-29 14:21,West,Inland,Walk-in,Document,normal,1,9,4,2025-03-29 23:46,,open,,,,,
+DM-00352,2025-03-29 14:24,Harbor,Coast,Phone,Lost Item,normal,0,9,2,2025-03-30 04:46,2025-03-30 10:17,closed,13.3,resolved,,0,
+DM-00353,2025-03-29 15:26,South,Coast,Phone,Document,normal,1,7,5,2025-03-29 17:16,2025-03-30 02:06,closed,7.8,resolved,,0,3
+DM-00354,2025-03-29 22:21,Central,Metro,Phone,Traffic,normal,0,9,2,2025-03-30 05:49,2025-03-30 09:27,closed,33.3,resolved,,0,
+DM-00355,2025-03-30 13:40,Harbor,Coast,Online,Lost Item,high,0,13,5,2025-03-30 16:57,,open,,,,,
+DM-00356,2025-03-30 15:08,Harbor,Coast,Phone,Traffic,normal,1,10,5,2025-03-30 16:21,,open,,,,,
+DM-00357,2025-03-31 06:02,South,Coast,Phone,Document,high,0,9,6,2025-03-31 10:37,,open,,,,,
+DM-00358,2025-03-31 08:27,North,Metro,Online,Traffic,normal,2,13,2,2025-03-31 15:02,,open,,,,,
+DM-00359,2025-03-31 11:28,South,Coast,Online,Document,normal,1,9,6,2025-03-31 12:32,,open,,,,,
+DM-00360,2025-03-31 15:03,Central,Metro,Walk-in,Lost Item,high,1,11,6,2025-03-31 19:28,,open,,,,,

@@ -1,0 +1,87 @@
+{
+  "about": "Synthetic problem-framing cards for Week 08 Day 1. Decide for each card: classification, regression, unsupervised or not_ml.",
+  "demo": [
+    {
+      "id": "D1",
+      "title": "Supervisor review",
+      "description": "Predict whether a new lost-item request will need a supervisor review, learning from past requests that are marked reviewed or not reviewed."
+    },
+    {
+      "id": "D2",
+      "title": "Document effort",
+      "description": "Estimate how many minutes a new document request will take to handle, learning from past requests with recorded minutes."
+    },
+    {
+      "id": "D3",
+      "title": "Desk profiles",
+      "description": "Group desks by their mix of request types. Nobody has defined the groups in advance."
+    },
+    {
+      "id": "D4",
+      "title": "Weekly count",
+      "description": "Count how many traffic requests arrived last week."
+    },
+    {
+      "id": "D5",
+      "title": "Language flag",
+      "description": "Flag online requests written in a language other than Arabic or English, learning from requests that staff already labelled."
+    },
+    {
+      "id": "D6",
+      "title": "Walk-in forecast",
+      "description": "Forecast next week's number of walk-in requests per desk from the weekly counts of previous weeks."
+    }
+  ],
+  "practice": [
+    {
+      "id": "P1",
+      "title": "Duplicate submissions",
+      "description": "Decide whether a new online request is a duplicate submission, learning from requests already marked duplicate or not duplicate."
+    },
+    {
+      "id": "P2",
+      "title": "Waiting time",
+      "description": "Estimate the hours until the first action on a new request, learning from past requests with recorded waits."
+    },
+    {
+      "id": "P3",
+      "title": "Text themes",
+      "description": "Find groups of similar requests from their free-text descriptions. There is no list of categories."
+    },
+    {
+      "id": "P4",
+      "title": "March medians",
+      "description": "Report the median handling minutes per desk for March."
+    },
+    {
+      "id": "P5",
+      "title": "Survey response",
+      "description": "Predict whether a requester will answer the optional satisfaction survey, learning from past requests where we know if they answered."
+    },
+    {
+      "id": "P6",
+      "title": "Staffed hours",
+      "description": "Estimate the total staffed hours a desk will need next month, learning from the hours and request volumes of previous months."
+    },
+    {
+      "id": "P7",
+      "title": "Unusual days",
+      "description": "Discover days whose request pattern looks unlike other days. Nobody has labelled any day as unusual."
+    },
+    {
+      "id": "P8",
+      "title": "Request category",
+      "description": "Sort new requests into Report, Traffic, Document or Lost Item from the request text, learning from requests that were already categorised."
+    },
+    {
+      "id": "P9",
+      "title": "Stale requests",
+      "description": "List every request that is still open seven days after it was opened."
+    },
+    {
+      "id": "P10",
+      "title": "Visit patterns",
+      "description": "Segment walk-in visits into typical time-of-day patterns, without any labelled patterns."
+    }
+  ]
+}

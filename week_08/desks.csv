@@ -1,0 +1,7 @@
+desk_code,desk,region,staffed_hours
+001,North,Metro,160
+002,East,Metro,120
+003,South,Coast,120
+004,West,Inland,80
+007,Harbor,Coast,80
+010,Central,Metro,160
